@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "9bcecf13a87a5c7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a639f6977cdec2a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "⚙️Admin/Templates/Diário.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4fe2bdb700e39ba4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4305ba18d8d2b727",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc26937f1a7b5a29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fabd84f54f4a068f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "37b3eb3201dbdc69",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0d155c3669aa2cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9183bd959b7f6dd5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "⚙️Admin/Templates/Diário.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "82e2fdffa0abbd22",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0c642ea43543894c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "⚙️Admin/Templates/Diário.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "2a639f6977cdec2a",
+  "lastOpenFiles": [
+    "⚙️Admin/Templates/Diário.md",
+    "⚙️Admin/Templates/Livro.md",
+    "⚙️Admin/Templates/Podcast.md",
+    "+ 2022-03-03 10 Erros Comuns no Notion.md",
+    "+ 2022-3-03 Pensamentos Do YouTube sobre futuro da tecnologia.md",
+    "Conteúdos.md",
+    "YouTube/Erros do notion.md",
+    "coisas na cabeça.md",
+    "Central de Conhecimento.md",
+    "⚙️Admin/Taxonomia.md"
+  ]
+}
