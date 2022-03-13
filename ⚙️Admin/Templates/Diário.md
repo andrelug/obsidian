@@ -27,11 +27,23 @@ Tags:
 TABLE tags
 FROM ""
 WHERE file.ctime.year = [[<% tp.file.title %>]].file.ctime.year
-AND file.ctime.month = [[<% tp.file.tiele %>]].file.ctime.month
-AND file.ctime.day = [[<% tp.file.tiele %>]].file.ctime.day
+AND file.ctime.month = [[<% tp.file.title %>]].file.ctime.month
+AND file.ctime.day = [[<% tp.file.title %>]].file.ctime.day
 SORT file.name
 ```
 
 ---
 
 [[<% tp.date.yesterday("YYYY-MM-DD") %>]] <== <button class="date_button_today">Today</button> ==> [[<% tp.date.tomorrow("YYYY-MM-DD") %>]]
+
+---
+
+<%* if(tp.date.now("M-D") == "1-1") { %>
+- [ ] Make Yearly Note
+<%* } %>
+<%* if(tp.date.now("D") == 1) { %>
+- [ ] Make Monthly Note
+<%* } %>
+<%* if(tp.date.now("ddd") == "Sun") { %>
+- [ ] Make Weekly Note
+<%* } %>

@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5f0c137aaab2c9fa",
+        "id": "bce75f2205dd6fca",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "⚙️Admin/Templates/Diário.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚙️Admin/Templates/Diário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⚙️Admin/Templates/Diário.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,17 +104,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5f0c137aaab2c9fa",
+  "active": "bce75f2205dd6fca",
   "lastOpenFiles": [
-    "⚙️Admin/Templates/Diário.md",
     "Untitled.md",
-    "📝Diário/2022-03-12.md",
-    "Sunk-cost bias.md",
-    "Invalid date.md",
-    "⚙️Admin/Templates/Meta.md",
-    "+ bla.md",
+    "⚙️Admin/Taxonomia.md",
+    "⚙️Admin/Templates/Diário.md",
+    "+ FOCUS - How to achieve the superpower of laser focus.md",
     "+ 2022-03-03 10 Erros Comuns no Notion.md",
     "+ 2022-3-03 Pensamentos Do YouTube sobre futuro da tecnologia.md",
-    "+ 2022-03-12 3 Formas de Produzir um Trabalho Excepcional.md"
+    "📝Diário/2022-03-12.md",
+    "📝Diário/2022-03-13.md",
+    "teste.md",
+    "Sunk-cost bias.md"
   ]
 }
