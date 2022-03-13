@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "52c43d1d5b800ced",
+        "id": "f2811357f7e868ae",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "⚙️Admin/Templates/Video.md",
+            "file": "⚙️Admin/Templates/Diário.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚙️Admin/Templates/Video.md",
+                "file": "⚙️Admin/Templates/Diário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⚙️Admin/Templates/Video.md",
+                "file": "⚙️Admin/Templates/Diário.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,17 +111,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "52c43d1d5b800ced",
+  "active": "f2811357f7e868ae",
   "lastOpenFiles": [
-    "⚙️Admin/Templates/Video.md",
-    "⚙️Admin/Templates/Podcast.md",
+    "⚙️Admin/Templates/Diário.md",
     "+ bla.md",
-    "Untitled.md",
+    "+ 2022-03-03 10 Erros Comuns no Notion.md",
+    "+ 2022-3-03 Pensamentos Do YouTube sobre futuro da tecnologia.md",
+    "+ 2022-03-12 3 Formas de Produzir um Trabalho Excepcional.md",
     "⚙️Admin/Templates/Book.md",
-    "⚙️Admin/Templates/People.md",
-    "⚙️Admin/Templates/Thought.md",
-    "⚙️Admin/Templates/Meta.md",
+    "⚙️Admin/Templates/Inputs.md",
     "⚙️Admin/Templates/Kindle.md",
-    "⚙️Admin/Templates/Inputs.md"
+    "⚙️Admin/Templates/Meta.md",
+    "⚙️Admin/Templates/People.md"
   ]
 }

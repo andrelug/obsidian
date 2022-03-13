@@ -3,7 +3,6 @@ Tags: 📥/🔴
 Type: book
 ---
 
-Status: #📥 
 Tags: 
 Title: <% tp.file.title %>
 Author: 

@@ -3,7 +3,6 @@ Tags: 📥/🔴
 Type: podcast
 ---
 
-Status: #📥 
 Tags: 
 Title: <% tp.file.title %>
 URL: 

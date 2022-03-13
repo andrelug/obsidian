@@ -3,7 +3,6 @@ Tags: 📥/🔴
 Type: video
 ---
 
-Status: #📥 
 Tags: 
 Title: <% tp.file.title %>
 URL: 
