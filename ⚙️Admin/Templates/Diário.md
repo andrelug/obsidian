@@ -1,4 +1,8 @@
-Status: #📝 
+---
+Tags: 📝
+Type: video
+---
+
 Tags:  
 
 ---

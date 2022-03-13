@@ -1,10 +1,14 @@
+---
+Tags: 📥/🔴
+Type: video
+---
+
 Status: #📥 
 Tags: 
-Título: {{title}}
+Title: <% tp.file.title %>
 URL: 
-Canal: 
-Referência: 
-Data da visualização: {{date}} 
+Channel: 
+Reference: 
 
 ---
 

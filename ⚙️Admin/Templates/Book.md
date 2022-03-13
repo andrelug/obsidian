@@ -1,14 +1,13 @@
 ---
 Tags: 📥/🔴
-Type: podcast
+Type: book
 ---
 
 Status: #📥 
 Tags: 
 Title: <% tp.file.title %>
-URL: 
-Podcast: 
-People: 
+Author: 
 Reference: 
+Ending Date: 
 
 ---

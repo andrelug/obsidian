@@ -15,6 +15,3 @@
 		- Dicas
 	- Produtividade
 	- Reflexões  
-
-
-> teste pra ver como fica

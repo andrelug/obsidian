@@ -4,5 +4,11 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "spellcheck": true,
-  "attachmentFolderPath": "⚙️Admin/Anexos"
+  "attachmentFolderPath": "⚙️Admin/Anexos",
+  "foldHeading": true,
+  "foldIndent": true,
+  "spellcheckLanguages": [
+    "pt-BR",
+    "en-US"
+  ]
 }

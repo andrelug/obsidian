@@ -1,12 +1,15 @@
-Status: #📥 
-Tags: [[Notion]], [[Produtividade]], [[Organização]]
-Título: + 2022-03-03 10 Erros Comuns no Notion
-URL: https://www.youtube.com/watch?v=hrdTwz_3wMQ
-Canal: [[Thomas Frank]]
-Referência: 
-Data da visualização: 2022-03-12 
-
 ---
+Tags: 📥/🟡
+Type: video
+---
+
+Tags: [[Notion]], [[Productivity]], [[Organization]]
+Title: + 2022-03-03 10 Erros Comuns no Notion
+URL: https://www.youtube.com/watch?v=hrdTwz_3wMQ
+Channel: [[Thomas Frank]]
+Reference: 
+Viewing Date: 2022-03-12 
+
 
 <center>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/hrdTwz_3wMQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allow-fullscreen></iframe>

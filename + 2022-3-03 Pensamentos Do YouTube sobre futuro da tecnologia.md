@@ -1,10 +1,14 @@
-Status: #📥 
-Tags: [[mídias sociais]], [[futurismo]], [[tecnologia]]
-Título: + 2020-03-03 Pensamentos Do YouTube sobre futuro da tecnologia
+---
+Tags: 📥/🟡
+Type: video
+---
+
+Tags: [[Social media]], [[Futurism]], [[Technology]]
+Title: + 2020-03-03 Pensamentos Do YouTube sobre futuro da tecnologia
 URL: https://www.youtube.com/watch?v=FZvee3-PEzo
-Canal: [[Mrwhosetheboss]]
-Referência: 
-Data da visualização: 2022-03-03 
+Channel: [[Mrwhosetheboss]]
+Reference: 
+Viewing Date: 2022-03-03 
 
 ---
 
