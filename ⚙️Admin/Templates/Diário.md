@@ -8,7 +8,7 @@ Tags:
 ---
 #### On this day
 
-[[<% moment(tp.file.title).subtract(1, 'year').format("YYY-MM-DD") %>]]
+[[<%tp.date.now("YYYY-MM-DD", -365)%>]]
 
 #### Gratidão do dia
 ==Gratidão==
@@ -34,6 +34,4 @@ SORT file.name
 
 ---
 
-[[<% moment(tp.file.title).subtract(1, 'day').format("YYY-MM-DD") %>]] <== <button class="date_button_today">Today</button> ==> [[<% moment(tp.file.title).add(1, 'day').format("YYY-MM-DD") %>]]
-
-<< [[<% tp.date.now("YYYY-MM-DD",-1,tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY-MM-DD"),"YYYY-MM-DD") %>]] | [[<% tp.date.now("YYYY-MM-DD",1,tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY-MM-DD"),"YYYY-MM-DD") %>]] >>
+[[<% tp.date.yesterday("YYYY-MM-DD") %>]] <== <button class="date_button_today">Today</button> ==> [[<% tp.date.tomorrow("YYYY-MM-DD") %>]]
