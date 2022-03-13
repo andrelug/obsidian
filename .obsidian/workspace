@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "⚙️Admin/Templates/Diário.md",
+            "file": "📥Inbox/Conteúdos.md",
             "mode": "source",
+            "backlinks": true,
             "source": false
           }
         }
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚙️Admin/Templates/Diário.md",
+                "file": "📥Inbox/Conteúdos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⚙️Admin/Templates/Diário.md",
+                "file": "📥Inbox/Conteúdos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,15 +112,15 @@
   },
   "active": "2a639f6977cdec2a",
   "lastOpenFiles": [
+    "📥Inbox/Conteúdos.md",
+    "+ 2022-3-03 Pensamentos Do YouTube sobre futuro da tecnologia.md",
+    "+ 2022-03-03 10 Erros Comuns no Notion.md",
+    "⚙️Admin/Taxonomia.md",
     "⚙️Admin/Templates/Diário.md",
     "⚙️Admin/Templates/Livro.md",
     "⚙️Admin/Templates/Podcast.md",
-    "+ 2022-03-03 10 Erros Comuns no Notion.md",
-    "+ 2022-3-03 Pensamentos Do YouTube sobre futuro da tecnologia.md",
-    "Conteúdos.md",
     "YouTube/Erros do notion.md",
-    "coisas na cabeça.md",
-    "Central de Conhecimento.md",
-    "⚙️Admin/Taxonomia.md"
+    "📥Inbox/coisas na cabeça.md",
+    "Central de Conhecimento.md"
   ]
 }
