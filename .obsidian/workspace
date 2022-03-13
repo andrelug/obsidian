@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f2811357f7e868ae",
+        "id": "5f0c137aaab2c9fa",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -111,17 +111,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f2811357f7e868ae",
+  "active": "5f0c137aaab2c9fa",
   "lastOpenFiles": [
     "⚙️Admin/Templates/Diário.md",
+    "Untitled.md",
+    "Sunk-cost bias.md",
+    "Invalid date.md",
+    "⚙️Admin/Templates/Meta.md",
     "+ bla.md",
     "+ 2022-03-03 10 Erros Comuns no Notion.md",
     "+ 2022-3-03 Pensamentos Do YouTube sobre futuro da tecnologia.md",
     "+ 2022-03-12 3 Formas de Produzir um Trabalho Excepcional.md",
-    "⚙️Admin/Templates/Book.md",
-    "⚙️Admin/Templates/Inputs.md",
-    "⚙️Admin/Templates/Kindle.md",
-    "⚙️Admin/Templates/Meta.md",
-    "⚙️Admin/Templates/People.md"
+    "⚙️Admin/Templates/Book.md"
   ]
 }

@@ -11,5 +11,5 @@
 <%* } else if (tp.file.title.charAt(0) == "=" ) { %>
 <%~tp.file.include("[[Thought]]")%>
 <%* } else if (tp.file.title.charAt(0) == "&" ) { %>
-<%~tp.file.include("[[Kindle]]")%>
+<%~tp.file.include("[[People]]")%>
 <%* } _%>
