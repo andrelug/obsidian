@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7bd66396640633a3",
+        "id": "ff1536e7d7a93568",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝Diário/2022-03-13.md",
-            "mode": "source",
+            "file": "⚙️Admin/Taxonomia.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#🗺️",
+                "query": "sunk cos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝Diário/2022-03-13.md",
+                "file": "⚙️Admin/Taxonomia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝Diário/2022-03-13.md",
+                "file": "⚙️Admin/Taxonomia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,17 +111,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7bd66396640633a3",
+  "active": "ff1536e7d7a93568",
   "lastOpenFiles": [
+    "⚙️Admin/Taxonomia.md",
+    "Sunk-cost bias.md",
+    "+ 2022-03-12 3 Formas de Produzir um Trabalho Excepcional.md",
+    "+ 2022-03-13 FOCUS - How to achieve the superpower of laser focus.md",
+    "+ 2022-3-03 Pensamentos Do YouTube sobre futuro da tecnologia.md",
+    "+ 2022-03-03 10 Erros Comuns no Notion.md",
     "📝Diário/2022-03-13.md",
     "📝Diário/Weekly/2022-03 Week 2.md",
     "⚙️Admin/Templates/Weekly Review.md",
-    "+ 2022-03-13 FOCUS - How to achieve the superpower of laser focus.md",
-    "2022-03-13.md",
-    "📝Diário/2022-03-12.md",
-    "⚙️Admin/Templates/Diário.md",
-    "📥Inbox/Conteúdos.md",
-    "+ 2022-03-03 10 Erros Comuns no Notion.md",
-    "⚙️Admin/Templates/Concept.md"
+    "2022-03-13.md"
   ]
 }
