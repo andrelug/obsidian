@@ -1,6 +1,6 @@
 ---
 Tags: 📝
-Type: video
+Type: diary
 ---
 
 Tags:  

@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bce75f2205dd6fca",
+        "id": "7bd66396640633a3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📝Diário/2022-03-13.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#🗺️",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📝Diário/2022-03-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "📝Diário/2022-03-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -104,17 +111,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "bce75f2205dd6fca",
+  "active": "7bd66396640633a3",
   "lastOpenFiles": [
-    "Untitled.md",
-    "⚙️Admin/Taxonomia.md",
-    "⚙️Admin/Templates/Diário.md",
-    "+ FOCUS - How to achieve the superpower of laser focus.md",
-    "+ 2022-03-03 10 Erros Comuns no Notion.md",
-    "+ 2022-3-03 Pensamentos Do YouTube sobre futuro da tecnologia.md",
-    "📝Diário/2022-03-12.md",
     "📝Diário/2022-03-13.md",
-    "teste.md",
-    "Sunk-cost bias.md"
+    "📝Diário/Weekly/2022-03 Week 2.md",
+    "⚙️Admin/Templates/Weekly Review.md",
+    "+ 2022-03-13 FOCUS - How to achieve the superpower of laser focus.md",
+    "2022-03-13.md",
+    "📝Diário/2022-03-12.md",
+    "⚙️Admin/Templates/Diário.md",
+    "📥Inbox/Conteúdos.md",
+    "+ 2022-03-03 10 Erros Comuns no Notion.md",
+    "⚙️Admin/Templates/Concept.md"
   ]
 }

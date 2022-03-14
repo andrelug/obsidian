@@ -1,4 +1,4 @@
 ---
 Tags: 📝/🌱
-Type: input
+Type: concept
 ---
