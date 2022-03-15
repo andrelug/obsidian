@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "⚙️Admin/Taxonomia.md",
-            "mode": "preview",
+            "file": "📝Diário/2022-03-14.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚙️Admin/Taxonomia.md",
+                "file": "📝Diário/2022-03-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⚙️Admin/Taxonomia.md",
+                "file": "📝Diário/2022-03-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,6 +113,7 @@
   },
   "active": "ff1536e7d7a93568",
   "lastOpenFiles": [
+    "📝Diário/2022-03-14.md",
     "⚙️Admin/Taxonomia.md",
     "Sunk-cost bias.md",
     "+ 2022-03-12 3 Formas de Produzir um Trabalho Excepcional.md",
@@ -121,7 +122,6 @@
     "+ 2022-03-03 10 Erros Comuns no Notion.md",
     "📝Diário/2022-03-13.md",
     "📝Diário/Weekly/2022-03 Week 2.md",
-    "⚙️Admin/Templates/Weekly Review.md",
-    "2022-03-13.md"
+    "⚙️Admin/Templates/Weekly Review.md"
   ]
 }
