@@ -1,5 +1,5 @@
 ---
-Tags: 📝/🌱
+Tags: 🧵/🌱
 Type: concept
 Alias: choice paralysis
 ---

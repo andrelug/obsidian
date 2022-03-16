@@ -1,5 +1,7 @@
-Tag: #⚙️ 
-
+---
+Tags: ⚙️,🐧/🌱
+Type: admin
+---
 # Taxonomia
 
 ## Tags
@@ -20,6 +22,9 @@ Tag: #⚙️
 - #🗺️ - Mapa de Conteúdo
 - #🏷️ - Tag
 - #⚙️ - Admin
+
+
+🧵/🌱
 
 ---
 ## Categorias

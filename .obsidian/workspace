@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "25e315166b210924",
+        "id": "44d1d35c85b5c5dc",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "⚙️Admin/Who.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#🗺️",
+                "query": "tag:#📝",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "⚙️Admin/Who.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "⚙️Admin/Who.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -104,17 +111,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "25e315166b210924",
+  "active": "44d1d35c85b5c5dc",
   "lastOpenFiles": [
-    "+ 2022-03-16 What is PKM. Personal Knowledge System.md",
-    "Four Vurtues or Stoicism.md",
-    "📝Diário/2022-03-15.md",
-    "Sunk-cost bias.md",
-    "Analysis paralysis.md",
-    "📝Diário/2022-03-14.md",
+    "⚙️Admin/Who.md",
+    "⚙️Admin/Want.md",
     "⚙️Admin/Taxonomia.md",
-    "+ 2022-03-12 3 Formas de Produzir um Trabalho Excepcional.md",
-    "+ 2022-03-13 FOCUS - How to achieve the superpower of laser focus.md",
-    "+ 2022-3-03 Pensamentos Do YouTube sobre futuro da tecnologia.md"
+    "⚙️Admin/_focus.md",
+    "+ 2022-3-03 Pensamentos Do YouTube sobre futuro da tecnologia.md",
+    "📝Diário/2022-03-15.md",
+    "Four Vurtues or Stoicism.md",
+    "⚙️Admin/Templates/Diário.md",
+    "Analysis paralysis.md",
+    "⚙️Admin/Templates/Concept.md"
   ]
 }
