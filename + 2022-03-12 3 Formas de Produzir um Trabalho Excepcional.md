@@ -7,7 +7,7 @@ Tags: [[Sunk-cost bias]], [[Work]]
 Title: + 2022-03-12 3 Formas de Produzir um Trabalho Excepcional
 URL: https://www.youtube.com/watch?v=KBJBoyIs3Hk
 Channel: [[The Art of Improvement]]
-References: [[Dean Keith Simonton]] 
+References: [[@ Dean Keith Simonton]] 
 Viewing Date: 2022-03-12 
 
 ---

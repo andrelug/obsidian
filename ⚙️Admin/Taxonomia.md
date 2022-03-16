@@ -35,7 +35,7 @@ Aí depois basta ela se desenvolver para depois virar um mapa de conteúdo #🗺
 
 | Livros | Pessoas | Tweets | Podcasts | Vídeos | Artigos | Pensamentos | Kindle |
 | ------ | ------- | ------ | -------- | ------ | ------- | ----------- | ------ |
-|[[{]]|[[@]]|[[!]]|[[%]]|[[+]]|[[(]]|[[=]]|[[&]]|
+|[[{]]|[[@]]|[[!]]|[[%]]|[[@]]|[[(]]|[[=]]|[[&]]|
 
 
 ## Map of Content

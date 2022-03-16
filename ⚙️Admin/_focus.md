@@ -15,3 +15,6 @@ This is a framework to better understand where should I go, which projects to ta
 5. [[What]] are the things I will consistently do to accomplish these?
 6. With [[Whom]] I'm going to surround myself for leverage?
 7. [[Where]] will I do this; which tools I use?
+
+
+All that must be aligned and connected to the my [[Principles]].
