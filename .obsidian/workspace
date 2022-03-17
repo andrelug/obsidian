@@ -4,29 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d875502f1495f84",
+        "id": "803a09ebff95e949",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "⚙️Admin/_focus.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "201ca028ab6fd4f4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Principles.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -83,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,17 +104,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "201ca028ab6fd4f4",
+  "active": "803a09ebff95e949",
   "lastOpenFiles": [
-    "Principles.md",
-    "⚙️Admin/_focus.md",
-    "+ 2022-03-16 How to manage projects and more using Obsidian with Francisco Bricio.md",
-    "+ 2022-03-16 What is PKM. Personal Knowledge System.md",
-    "@ Francisco Bricio.md",
-    "+ 2022-03-13 FOCUS - How to achieve the superpower of laser focus.md",
-    "+ 2022-03-12 3 Formas de Produzir um Trabalho Excepcional.md",
-    "+ 2022-03-03 10 Notion Beginner Mistakes.md",
-    "+ 2022-3-03 Pensamentos Do YouTube sobre futuro da tecnologia.md",
-    "⚙️Admin/Taxonomia.md"
+    "📝Diário/2022-03-16.md",
+    "📝Diário/2022-03-15.md",
+    "( 2022-03-16 Discover the 6 human needs.md",
+    "⚙️Admin/Templates/Article.md",
+    "⚙️Admin/Templates/Meta.md",
+    "⚙️Admin/Templates/Podcast.md",
+    "⚙️Admin/Taxonomia.md",
+    "Super-Credibility.md",
+    "⚙️Admin/Templates/Book.md",
+    "⚙️Admin/_focus.md"
   ]
 }
