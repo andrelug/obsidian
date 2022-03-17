@@ -15,3 +15,11 @@
 		- Dicas
 	- Produtividade
 	- Reflexões  
+
+
+
+### Minha análise pessoal
+- mind valley medos
+- reunião amanda
+- reflexão juliana
+- nosso amigo
