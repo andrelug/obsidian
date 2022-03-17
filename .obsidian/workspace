@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d650a8562a914981",
+        "id": "02060527c184e08a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "+ 2022-03-17 vieo x.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ 2022-03-17 vieo x.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ 2022-03-17 vieo x.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,8 +104,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d650a8562a914981",
+  "active": "02060527c184e08a",
   "lastOpenFiles": [
+    "Untitled.md",
     "+ 2022-03-17 vieo x.md",
     "+ 2022-03-03 10 Notion Beginner Mistakes.md",
     "+ 2022-3-03 Pensamentos Do YouTube sobre futuro da tecnologia.md",
@@ -121,7 +115,6 @@
     "+ 2022-03-12 3 Formas de Produzir um Trabalho Excepcional.md",
     "( 2022-03-16 Discover the 6 human needs.md",
     "📝Diário/2022-03-16.md",
-    "📝Diário/2022-03-15.md",
-    "⚙️Admin/Templates/Article.md"
+    "📝Diário/2022-03-15.md"
   ]
 }
