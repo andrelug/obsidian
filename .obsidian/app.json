@@ -9,5 +9,6 @@
   "foldIndent": true,
   "spellcheckLanguages": [
     "en-US"
-  ]
+  ],
+  "fileSortOrder": "byModifiedTime"
 }

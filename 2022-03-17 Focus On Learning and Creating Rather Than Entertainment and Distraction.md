@@ -17,7 +17,7 @@ Reference:
 
 <++>
 
-Most people are distracted all the time. Entertainment and [[Social media]] are more important than [[Learning]] and creating things.
+Most people are distracted all the time. Entertainment and [[Social Media]] are more important than [[Learning]] and creating things.
 
 >> Entertainment and distractions is the enemy of creation and learning. They will keep you in [[Mediocrity]].
 >> ~ [[@ Benjamin Hardy]]

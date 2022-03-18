@@ -10,6 +10,7 @@ Type: admin
 	- #🎧 - Podcasts
 	- #🎥 - Vídeos
 	- #📰 - Artigos
+	- #🗣️ - Social Media
 	- #📝 - Notas
 		- #🌱 - Semente
 		- #🌿 - Muda
@@ -33,9 +34,9 @@ As categorias são links entre páginas. Quando há um número grande de referê
 Aí depois basta ela se desenvolver para depois virar um mapa de conteúdo #🗺️ 
 
 
-| Livros | Pessoas | Tweets | Podcasts | Vídeos | Artigos | Pensamentos | Kindle |
-| ------ | ------- | ------ | -------- | ------ | ------- | ----------- | ------ |
-|{|@|!|%|@|(|=|&|
+| Livros | Pessoas | Social Media | Podcasts | Vídeos | Artigos | Pensamentos  |
+| ------ | ------- | ------ | -------- | ------ | ------- | ----------- |
+|{|@|!|%|+|(|=|
 
 
 ## Map of Content
