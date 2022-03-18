@@ -1,5 +1,5 @@
 ---
-Tags: 📥/📰/🔴
+Tags: 📥 📰 🟢
 Type: article
 ---
 
@@ -42,7 +42,7 @@ Negative paths this need can take you if not addressed:
 - Alcohol and drugs
 - [[Procrastination]]
 - Try to control others
-- Lower expactations
+- Lower expectations
 - Excess eating
 
 A neutral way to attend to this need is money. It's neutral because it can lead to safety, but also lead to [[Anxiety]] and fear to lose the money.
