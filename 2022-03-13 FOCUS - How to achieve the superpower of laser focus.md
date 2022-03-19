@@ -6,7 +6,7 @@ Type: video
 Tags: [[Focus]], [[Productivity]]
 Title: + FOCUS - How to achieve the superpower of laser focus
 URL: https://www.youtube.com/watch?v=2gMS6DGGi5w
-Channel: [[August Bradley]]
+Channel: [[@ August Bradley]]
 Reference: 
 
 ---

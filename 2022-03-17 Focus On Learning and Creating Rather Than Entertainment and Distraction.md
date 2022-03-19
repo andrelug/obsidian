@@ -6,7 +6,7 @@ Type: video
 Tags: [[Focus]], [[Purpose]]
 Title: Focus On Learning and Creating Rather Than Entertainment and Distraction
 URL: https://www.youtube.com/watch?v=wlCz8nkDNqo
-Channel: [[The Art of Improvement]]
+Channel: [[@ The Art of Improvement]]
 Reference: 
 
 ---

@@ -6,7 +6,7 @@ Type: video
 Tags: [[Notion]], [[Productivity]], [[Organization]]
 Title: + 2022-03-03 10 Notion Beginner Mistakes
 URL: https://www.youtube.com/watch?v=hrdTwz_3wMQ
-Channel: [[Thomas Frank]]
+Channel: [[@ Thomas Frank]]
 Reference: 
 Viewing Date: 2022-03-12 
 

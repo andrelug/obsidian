@@ -6,7 +6,7 @@ Type: video
 Tags: [[Social Media]], [[Futurism]], [[Technology]]
 Title: + 2020-03-03 Pensamentos Do YouTube sobre futuro da tecnologia
 URL: https://www.youtube.com/watch?v=FZvee3-PEzo
-Channel: [[Mrwhosetheboss]]
+Channel: [[@ Mrwhosetheboss]]
 Reference: 
 Viewing Date: 2022-03-03 
 

@@ -6,7 +6,7 @@ Type: video
 Tags: [[Obsidian]], [[Organization]], [[Productivity]]
 Title: + 2022-03-16 How to manage projects and more using Obsidian with Francisco Bricio
 URL: https://www.youtube.com/watch?v=Ehw3hUZNF1M
-Channel: [[Linking Your Thinking]]
+Channel: [[@ Linking Your Thinking]]
 Reference: [[@ Francisco Bricio]]
 
 ---

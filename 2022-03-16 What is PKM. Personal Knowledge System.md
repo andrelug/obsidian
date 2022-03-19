@@ -6,7 +6,7 @@ Type: video
 Tags: [[Personal Knowledge System]], [[Organization]], [[Productivity]]
 Title: + 2022-03-16 What is PKM. Personal Knowledge System
 URL: https://www.youtube.com/watch?v=Q2WBHyqRsxA
-Channel: [[Linking Your Thinking]]
+Channel: [[@ Linking Your Thinking]]
 Reference: 
 
 ---
