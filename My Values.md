@@ -20,3 +20,23 @@ This is an exercise by [[@ Amir Ahmad Nasr]] and [[@ Mind Valley]]
 - I stole two small toys from a bookstore and regretted
 
 ### 10-15 years old
+- Cried in front of the class because I couldn't present the group assignment
+- I couldn't say to a girl I liked her
+- I was 'promoted' to a different football class, but there were only big boys there and from the best of my class I became the worst on the other
+- Nickname pamonha
+- During my first karate competition, I got punched in the face on the first fight
+- One day I came across some animal pornography
+- Watched a horror movie
+- Ask the Taiwanese girl for a kiss and got one on the cheek
+- Feelings for Samantha, but she was younger than me
+-  My bicycle was robbed
+
+### 15-20 years old
+- Le parkour accident
+- Breakup with Lucia
+- Depression
+- Anorexia and Bulimia
+- People gossiping that I was gay at PUC
+- Grandmother's car being stolen in front of PUC
+- Breakup with [[@ Raissa]]
+- Apply for schollarship in Japan
