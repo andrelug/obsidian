@@ -6,9 +6,6 @@ Type: diary
 Tags:  
 
 ---
-#### On this day
-
-[[<%tp.date.now("YYYY-MM-DD", -365)%>]]
 
 #### Gratidão do dia
 ==Gratidão==

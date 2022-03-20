@@ -7,8 +7,13 @@
         "id": "ebf2b101211f0f35",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "⚙️Admin/_focus.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "⚙️Admin/_focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,12 +98,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "⚙️Admin/_focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,15 +113,15 @@
   },
   "active": "ebf2b101211f0f35",
   "lastOpenFiles": [
-    "2022-03-19 The mindset that's changing my life.md",
-    "Locus of Control.md",
-    "📝Diário/2022-03-19.md",
-    "2022-03-18 You will never be lazy again.md",
-    "Inbox/Conteúdos.md",
-    "2022-03-18 Is this Cheating. Little Known Biohacks.md",
-    "⚙️Admin/Templates/Diário.md",
-    "⚙️Admin/Taxonomia.md",
-    "2022-03-18 The 10 most useful mental models.md",
-    "2022-03-16 What is PKM. Personal Knowledge System.md"
+    "⚙️Admin/_focus.md",
+    "2022-03-20 3 Ways to Reclaim your Creativity and Productivity.md",
+    "Focus spring.md",
+    "📝Diário/2022-03-18.md",
+    "📝Diário/2022-03-16.md",
+    "📝Diário/2022-03-12.md",
+    "📝Diário/2022-03-13.md",
+    "📝Diário/2022-03-14.md",
+    "📝Diário/2022-03-15.md",
+    "📝Diário/2022-03-19.md"
   ]
 }
