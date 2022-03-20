@@ -39,4 +39,7 @@ This is an exercise by [[@ Amir Ahmad Nasr]] and [[@ Mind Valley]]
 - People gossiping that I was gay at PUC
 - Grandmother's car being stolen in front of PUC
 - Breakup with [[@ Raissa]]
-- Apply for schollarship in Japan
+- Apply for scholarship in Japan and failed
+
+### 20-25 years old
+- Be almost homeless in Boston
