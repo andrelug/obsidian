@@ -43,3 +43,29 @@ This is an exercise by [[@ Amir Ahmad Nasr]] and [[@ Mind Valley]]
 
 ### 20-25 years old
 - Be almost homeless in Boston
+
+
+## Professions I have wanted and why
+- Astronaut - child desire 
+- Architect - The sims?
+- World chancellor - Control and wish to change to world's inequality and violence
+- Freelancer - freedom and money
+- Entrepreneur - Impact and grandness feeling
+- Aircraft Pilot - Fun?
+- Writer - Ability and imagination
+- Diplomat - International experience/travel
+- Chef - [[Creativity]]
+
+
+## Values
+
+- [[Integrity]]
+- Peace
+- Love
+- [[Freedom]]
+- [[Self-confidence]]
+- [[Health]]
+- Justice / Fairness
+- Novelty / Research / Transformation
+- Adventure with security
+- Essentialism
