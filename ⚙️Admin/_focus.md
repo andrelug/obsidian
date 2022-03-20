@@ -22,4 +22,5 @@ All that must be aligned and connected to the my [[Principles]].
 
 ## Exercises
 
-- [[My life ]]
+- [[My Values]]
+- 
