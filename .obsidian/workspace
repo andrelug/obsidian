@@ -4,42 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e0868fdb715ae83e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "📝Diário/Weekly/2022-03 Week 3.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "5d5bb061377c3c94",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "📝Diário/2022-03-20.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
         "id": "ebf2b101211f0f35",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2022-03-18 You will never be lazy again.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -96,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝Diário/2022-03-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,25 +92,24 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝Diário/2022-03-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5d5bb061377c3c94",
+  "active": "ebf2b101211f0f35",
   "lastOpenFiles": [
-    "📝Diário/2022-03-20.md",
     "📝Diário/Weekly/2022-03 Week 3.md",
-    "My Values.md",
     "2022-03-18 You will never be lazy again.md",
+    "📝Diário/2022-03-20.md",
+    "My Values.md",
     "2022-03-19 The mindset that's changing my life.md",
     "⚙️Admin/_focus.md",
     "2022-03-20 3 Ways to Reclaim your Creativity and Productivity.md",
