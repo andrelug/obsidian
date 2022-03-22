@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bc4f5f621b3ca6a0",
+        "id": "e552fa6b1380f3a4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "⚙️Admin/My Values - Exercises.md",
+            "file": "2022-03-22 Is Mycelium Fungus the Plastic of the Future.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚙️Admin/My Values - Exercises.md",
+                "file": "2022-03-22 Is Mycelium Fungus the Plastic of the Future.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⚙️Admin/My Values - Exercises.md",
+                "file": "2022-03-22 Is Mycelium Fungus the Plastic of the Future.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,17 +111,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "bc4f5f621b3ca6a0",
+  "active": "e552fa6b1380f3a4",
   "lastOpenFiles": [
-    "⚙️Admin/My Values - Exercises.md",
-    "Self-taught.md",
-    "⚙️Admin/What.md",
-    "Pornigraphy.md",
-    "⚙️Admin/Whom.md",
-    "⚙️Admin/When.md",
-    "⚙️Admin/Want.md",
-    "⚙️Admin/Where.md",
-    "⚙️Admin/Who.md",
-    "⚙️Admin/_focus.md"
+    "2022-03-22 Is Mycelium Fungus the Plastic of the Future.md",
+    "2022-03-22 How To Take Smart Notes.md",
+    "2022-03-21 How to be the type of person everyone wats to know.md",
+    "2022-03-18 You will never be lazy again.md",
+    "2022-03-16 What is PKM. Personal Knowledge System.md",
+    "2022-03-18 Is this Cheating. Little Known Biohacks.md",
+    "2022-03-19 The mindset that's changing my life.md",
+    "2022-03-20 3 Ways to Reclaim your Creativity and Productivity.md",
+    "@ Mike Gastin.md",
+    "⚙️Admin/My Values - Exercises.md"
   ]
 }
