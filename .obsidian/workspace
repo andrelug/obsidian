@@ -15,6 +15,19 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "47485e1ad3947691",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-03-22 How I made 4,790,000 in 2021.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -70,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Copywriting.md",
+                "file": "2022-03-22 How I made 4,790,000 in 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Copywriting.md",
+                "file": "2022-03-22 How I made 4,790,000 in 2021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,8 +124,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "94d7d6d4c4ba70a1",
+  "active": "47485e1ad3947691",
   "lastOpenFiles": [
+    "2022-03-22 How I made 4,790,000 in 2021.md",
     "Copywriting.md",
     "Super-Credibility.md",
     "⚙️Admin/Taxonomia.md",
@@ -121,7 +135,6 @@
     "2022-03-22 The essential habit billionaires practice everyday.md",
     "2022-03-22 BREAKING NEWS...The truth in 5 minutes, Seth Godin, David Bayer, Brendon Burchard.md",
     "2022-03-22 How To Take Smart Notes.md",
-    "2022-03-21 How to be the type of person everyone wats to know.md",
-    "2022-03-16 What is PKM. Personal Knowledge System.md"
+    "2022-03-21 How to be the type of person everyone wats to know.md"
   ]
 }
