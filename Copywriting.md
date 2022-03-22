@@ -3,92 +3,84 @@ Tags: 🧵/🌱
 Type: concept
 ---
 
-Para venda:
+## Sales
 
 AIDA
 
 -   Attention
-    -   Antes de falar de produto ou qualquer coisa assim é necessário ter a atenção da pessoa
+    - Before talking about any offer or talk about any product, we need to catch people's attention
 -   Interest
-    -   Gerar interesse na solução do problema que quer resolver
+    - Generate interest in the problem's solution you want to solve
 -   Desire
-    -   Mostra funcionalidades, status, sentimento que faz querer aquilo na vida
+    - Show functionalities, how it makes your [[Social status]] go up, the feeling of having that on your life
 -   Action
-    -   Venda
+    -   The actual offer and selling of the product
 
-A maior parte das compras são emocionais.
+### Most purchases are [[Emotional purchase]]
 
--   Quais sentimentos o produto que vende geram nas pessoas?
--   Alguns desejos comuns (John Caples)
-    -   Fazer mais dinheiro
-    -   Save money
-    -   Segurança de aposentadoria
-    -   Melhor saúde agora
-        -   Normalmente pessoas vão resolver os problemas só quando 'doi'
-    -   Segurança de saúde
-    -   Segurança em idades mais velhas
-    -   Avanço/promoção na profissão
-    -   Prestígio
-        -   Status
-    -   Enjoyment
-    -   Trabalhos mais fáceis
-        -   Qualquer coisa que faz a vida ficar mais fácil...maquinários, etc
-    -   Ganhar mais leisure
-    -   Conforto
-    -   Remover gordura
-    -   Freedom from fear
+- What feelings does the product generate in people?
+- Some common desires (John Caples)
+	- Make more money
+	- Save money
+	- Security and retirement
+	- Better health now
+		- Normally people try to solve the problems when they hurt
+	- Health security
+	- Old-age security
+	- Advance/promotion at work
+	- Prestige
+		- Status
+	- Enjoyment
+	- Easier work and jobs
+		- Things that can make the work easier, like new machinery
+	- Have more leisure time
+	- Comfort
+	- Get rid of fat
+	- Freedom from fear
 
-Apresentar o produto
+### Present the product
 
--   Pensar como uma cebola
-    -   Features
-    -   Benefícios funcionais
-    -   Benefícios práticos
-        -   save time, money, health...
-    -   Benefícios emocionais
-        -   Qual é a emoção para qual ele mais apela
--   Importante conectar os elementos e benefícios
--   5 Passos
-    -   Identifica todos os benefícios dos produtos
-    -   Identifica todas as emoções positivas que o produto toca
-    -   Identifica todas as emoções negativas que o produto resolve
-    -   Adiciona os premiuns. Coisas que o produto em si não resolve
-    -   Posiciona o seu produto no topo da lista de necessidades do seu cliente. Ser tipo a marca principal daquele produto ou serviço.
-        -   Se você não é o primeiro ou o melhor do mercado, tente reavaliar a copy para se colocar numa categoria única em que você é o principal ou primeiro
+- Think like an onion
+	- Features
+	- Functional benefits
+	- Practical benefits
+		- save time, money, health
+	- Emotional benefits
+		- Which emotion appeals for that person
+- Connect elements and benefits
+- 5 steps
+	- Identify all product's benefits
+	- Identify all positive emotions the product relates to
+	- Identify all negative emotions the product solves
+	- Add premiums - [[Up-sells]] . Things the product itself doesn't solve
+	- Position your product as the top of the list necessity for your client. Be the top reference for that product or service.
+		- If you are not the first or best in the market, try reevaluate the copy to position yourself or your product in a unique category you are the first.
 
-Mapa de empatia para entender o prospecto
+## Empathy map
 
-Hierarquia de Maslow
+To better understand your client
 
--   1 - Necessidades fisiológicas
--   2- Segurança
--   3- Love and belonging
--   4- Esteem, confiança
--   5- Self-actualization
+[[Maslow's hierarchy]]
 
-Atenção
+1. Physiological needs
+2. Security
+3. Love and belonging
+4. [[Self-esteem]] , [[Self-confidence]]
+5. [[Self-actualization]]
 
-Pessoas vão passar pelos processos depois de ler sua headline:
+## Headlines
 
-1.  Now what?
-2.  Yeah, right!
-3.  So what?
-4.  Really?
+After reading your copy/headline, people will go through a process:
 
--   Geralmente trazendo uma forma que o prospecto pode se relacionar.
--   Timing
--   Sequência falando sobre 'o tópico favorito' do prospecto
-    -   Pensamentos
-    -   Emoções
-    -   Impulsos
-    -   Check de realidade
-    -   Ação
--   Gerar curiosidade no título
+1. Now what?
+2. Yeah, right!
+3. So what?
+4. Really?
 
-As pessoas tendem a focar nas coisas mais urgentes do que longo prazo
 
-Exemplos de boas headlikes
+People tend to focus on urgent things rather than long-term ones.
 
+Good headlines examples:
 -   O segredo de fazer as pessoas gostarem de você
 -   Um pequeno erro que custa um fazendeiro 3k por ano
     -   pequeno erro significa que é fácil arrumar
@@ -101,70 +93,48 @@ Exemplos de boas headlikes
 -   Quem mais quer esse tipo de corpo?
 -   Você comete esses erros no Inglês?
 
-Estratégias para headline
+Headline Strategies
 
--   Ponha uma data
--   Dê informação de valor
-    -   Específico
--   Conte uma história
--   Faça uma proposta
+-   Add a date
+- Specific value information
+- Tell a story
+- Make a proposal
 
-Formas de identificar uma boa headlinke
+Ways to identify good headlines:
 
--   Me fez 'gasp' quando eu a li a primeira vez?
--   Sentimento de ter querido ter pensado naquilo antes
--   É único?
--   Encaixa com a estratégia de venda e produto?
--   Pode ser utilizado em alguns anos?
--   Touch a nerve
--   Está em contexto com questionamentos daquele usuário?
--   Mostra um benefício?
--   Curiosidade
--   Convicção
--   Credibilidade
--   Específico
--   Fácil de entender
--   Escrito no jeito de falar das pessoas
--   Tem algo 'novo'
--   Leva a pessoa a ler a copy
+- Made me gast when first read?
+- Feeling of wanting to have thought that first
+- Is unique?
+- Fits well with the products selling strategy?
+- Can be used after a few years?
+- Touches a nerve
+- Is it in context with the person's questions and needs?
+- Shows a benefit?
+- Curiosity
+- Conviction
+- Specific
+- Credible
+- Easy to understand
+- Written in the way people are used to
+- Has something new
+- Takes people to know more and read further
 
-Ideias para pensar numa headline
+Ideas to think while writing a good headline
 
--   Aproveitar de algo que está 'na moda'
--   Faça ser pessoal
--   Fazer uma proposta
--   Shock value
--   Faça uma questão quente
--   Usa um 'nome importante'
--   Religion sells
--   Escândalo
--   Deadline
--   Imagem relevante que complemente
--   Ofereça uma alternativa barata
+- Take advantage of something trending
+- Make it personal
+- Make a proposal
+- Shock value
+- Make it a pressing issue
+- Use an important name
+- Religion sells
+- Scandal
+- Deadline
+- Relevant image to complement
+- Offer a cheap alternative
 
-Dicas para texto
 
--   Ser específico
-    -   Às vezes usar de porcentagens é bem mais efetivo do que "Na maior parte das vezes"...
-    -   Em vez de "estudei muito", fala Estudei 200 horas
-    -   Em vez de "um empreendedor", fala "O John blabla, da cidade tal, etc"...
--   Faça ser fácil
--   Credibilidade
--   Provas
--   Texto pessoal
--   Tem o tom certo
--   Focado
--   Tem uma progressão lógica
--   É emocional
--   Tem 'momentum'
--   Long copy é bom
-    -   Mas usar menos enrolação
--   Sentenças menores
--   Metáforas é bom
--   Cores mais fortes
--   12px ou mais
--   Imagens só se fizerem sentido para a narrativa
--   Sem pontos finais (?)
+## Structure
 
 1.  Começa com chamar atenção
 2.  Sub-headline
