@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "14db9364e27daff6",
+        "id": "00b17986ef03baf4",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -98,23 +98,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "14db9364e27daff6",
+  "active": "00b17986ef03baf4",
   "lastOpenFiles": [
+    "2022-03-17 Linchpin.md",
+    "2022-03-22 Big Magic.md",
+    "Untitled.md",
     "📝Diário/2022-03-22.md",
     "Copywriting.md",
     "2022-03-22 How I made 4,790,000 in 2021.md",
     "Super-Credibility.md",
     "⚙️Admin/Taxonomia.md",
     "2022-03-22 Is Mycelium Fungus the Plastic of the Future.md",
-    "2022-03-18 You will never be lazy again.md",
-    "2022-03-22 The essential habit billionaires practice everyday.md",
-    "2022-03-22 BREAKING NEWS...The truth in 5 minutes, Seth Godin, David Bayer, Brendon Burchard.md",
-    "2022-03-22 How To Take Smart Notes.md"
+    "2022-03-18 You will never be lazy again.md"
   ]
 }
