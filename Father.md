@@ -25,4 +25,3 @@
 
 - Travel
 - Play together
-- 
