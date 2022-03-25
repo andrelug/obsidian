@@ -7,8 +7,13 @@
         "id": "00b17986ef03baf4",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📝Diário/2022-03-24.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📝Diário/2022-03-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "📝Diário/2022-03-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,6 +113,7 @@
   },
   "active": "00b17986ef03baf4",
   "lastOpenFiles": [
+    "📝Diário/2022-03-24.md",
     "2022-03-22 How I made 4,790,000 in 2021.md",
     "2022-03-18 The 10 most useful mental models.md",
     "2022-03-17 Focus On Learning and Creating Rather Than Entertainment and Distraction.md",
@@ -114,7 +122,6 @@
     "2022-03-22 Big Magic.md",
     "2022-03-24 Everybody Lies.md",
     "MOCs/Writing.md",
-    "MOCs/Nosso Amigo.md",
-    "📝Diário/2022-03-23.md"
+    "MOCs/Nosso Amigo.md"
   ]
 }
