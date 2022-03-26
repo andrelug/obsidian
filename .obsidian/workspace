@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "⚙️Admin/_focus.md",
+            "file": "2022-03-25 How I remember everything I read.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚙️Admin/_focus.md",
+                "file": "2022-03-25 How I remember everything I read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⚙️Admin/_focus.md",
+                "file": "2022-03-25 How I remember everything I read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,6 +113,7 @@
   },
   "active": "00b17986ef03baf4",
   "lastOpenFiles": [
+    "2022-03-25 How I remember everything I read.md",
     "⚙️Admin/_focus.md",
     "⚙️Admin/Who.md",
     "Father.md",
@@ -121,7 +122,6 @@
     "My values.md",
     "2022-03-25 My Productivity System (2022).md",
     "📝Diário/2022-03-24.md",
-    "2022-03-22 How I made 4,790,000 in 2021.md",
-    "2022-03-18 The 10 most useful mental models.md"
+    "2022-03-22 How I made 4,790,000 in 2021.md"
   ]
 }
