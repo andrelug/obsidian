@@ -1,0 +1,51 @@
+---
+Tags: 🧵/🌱
+Type: concept
+---
+-   The heroes journey
+    -   Joseph campbell
+    -   1- Call to adventure
+        -   Sair do ordinário em busca de algo maior
+        -   Abre a cabeça do personagem para algo novo
+        -   Precisa ser simples essa parte
+        -   Deixa a complexidade para o personagem
+    -   2- Refusal of the call
+        -   Considera não ser digno, capaz ou não querer fazer a aventura que foi proposta para salvar algo ou resolver algum problema
+        -   Parece impossível
+    -   3- Supernatural aid
+        -   Momento que o herói começa a aprender e se desenvolver
+        -   Ganha poder
+    -   4- Crossing the threshold
+        -   Momento que o herói realmente da o pulo
+        -   Vai para o mundo mágico
+        -   Normalmente não consegue voltar atrás
+        -   Momento bom para finalizar os tutoriais do jogo
+    -   5- Belly of the whale
+        -   Enfrentamento dos momentos mais difíceis
+        -   Ideia de descer em algum lugar mais sombrio
+    -   6- Road of trials
+        -   Iniciação
+        -   Série de desafios para crescer e se desenvolver
+    -   7- Meeting with the goddess
+        -   Herói entende o amor
+    -   8- Woman as temptress
+        -   Lure of money, sex, fame, etc
+        -   Physical as temptress
+        -   Algo que tire o herói do seu caminho, o tentando
+    -   9- Atonement with the father
+        -   Father is the 'supreme powerfull entity'
+        -   Faith
+        -   Algo que faz o herói acreditar mesmo que está tudo contra ele
+    -   10- Apotheosis
+        -   Ascention to something more
+        -   Death and rebirth
+        -   Algo que melhora e o deixa perfeito
+        -   Tudo que era difícil parece ser fácil
+    -   11- The return
+        -   Retorna ao mundo normal
+        -   Crescido, às vezes ajudando os outros
+-   História em 3 partes
+    -   1 - segue o herói na sua jornada
+    -   2 - joga pedras no herói
+    -   3 - Acaba com ele
+-   Se você vai falar de algo que 'resolve' a história no terceiro ato, tem que introduzir no primeiro

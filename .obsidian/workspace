@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "00b17986ef03baf4",
+        "id": "b1e54e365e9ddb8f",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -104,17 +104,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "00b17986ef03baf4",
+  "active": "b1e54e365e9ddb8f",
   "lastOpenFiles": [
-    "MOCs/Learning.md",
     "MOCs/Writing.md",
-    "2022-03-25 How I remember everything I read.md",
-    "⚙️Admin/_focus.md",
-    "⚙️Admin/Who.md",
-    "Father.md",
-    "⚙️Admin/My Values - Exercises.md",
-    "Family values.md",
-    "My values.md",
-    "2022-03-25 My Productivity System (2022).md"
+    "Brandon Sanderson on Writing Science Fiction and Fantasy.md",
+    "⚙️Admin/Templates/Course.md",
+    "⚙️Admin/Templates/Video.md",
+    "⚙️Admin/Templates/Concept.md",
+    "World Building Design references.md",
+    "⚙️Admin/Templates/Reference.md",
+    "⚙️Admin/Templates/Book.md",
+    "World building.md",
+    "4 Act 'W' Structure Story.md"
   ]
 }

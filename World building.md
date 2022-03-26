@@ -1,0 +1,55 @@
+---
+Tags: 🧵/🌱
+Type: concept
+---
+
+-   Diferença entre setting e place
+    -   Setting
+        -   Level of conflict
+        -   Duration of time
+        -   Location
+        -   Period
+    -   Place
+        -   Location
+        -   Period
+-   Tipos
+    -   Free design
+        -   Sem muitas regras ou limites
+        -   Três abordagens
+            -   Top Down
+                -   Começa com temas maiores e vai afunilando
+            -   Middle out
+                -   Vai de coisas intermediárias para ambos os lados
+            -   Bottom up
+                -   Começa com os detalhes e vai para o mais amplo
+    -   Fixed design
+        -   Começa com um setting e é mais restrito ao que esse setting necessita
+        -   Dois tipos
+            -   World-based approach
+                -   Normalmente vem de um free design e encontra um local no qual gostaria de contar uma história
+            -   Story-based approach
+                -   Começa de uma ideia do conflito e aí precisa criar um local para esse conflito existir
+    -   Found design
+        -   Às vezes a história começa com outras questões que não o mundo ou o setting mas sim coisas como:
+            -   Ethical boundaries
+            -   Concept conveyance
+            -   Aesthetic Cohesion
+        -   Deixa algo externo guiar a construção do mundo
+-   Life of humans
+    -   Melhora da vida
+        -   Senescent cells
+        -   NAD+
+        -   CRISPR
+    -   Seleção genética
+        -   Talvez para quem tem dinheiro
+    -   Talvez
+        -   Salvação da mudança climática: GMO
+        -   População vai entrar em estabilidade na terra antes de 12b. gráfico de 4 estágios
+-   Sistema político
+    -   em vez de cada pessoa ter um voto, todo mundo pode votar em quantos quiser. assim o que tem mais voto é o que é mais querido
+    -   Sistema de pesos nos votos. quem tem mais peso é quem mais estudou política (cursos grtuitos disponíveis)
+-   Sobre AI
+    -   Direitos
+        -   Direitos dos humanos tem a ver com a proteção contra sofrimento, mas robôs não sofrem. Então o que seria os direitos de AI?
+        -   Qualquer tipo de sofrimento teria que ser programado dentro da inteligência para que ela reconhecesse isso
+        -   Quando robôs talvez programem outros robôs ou AIs, aí talvez eles vejam a necessidade de criar a ideia de sentimentos
