@@ -1,0 +1,7 @@
+---
+Tags: 🗺️
+Type: moc
+---
+
+# Learning
+---

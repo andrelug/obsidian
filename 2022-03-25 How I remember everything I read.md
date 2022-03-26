@@ -33,3 +33,28 @@ Read and highlight things that resonate with you.
 
 ## Level 3
 
+Use Readwise
+
+## Level 4
+
+Get all highlights to a central location
+
+## Level 5
+
+All up until now was very passive, but now it's time to review.
+
+Take quick notes from the stuff you have read. Have a quick summary template getting:
+- Top 3 highlights
+- Description of the book in three topics or sentences
+- How it changed me
+- What I liked most
+
+## Level 6
+
+More than all above, add a summary and notes about the book. Re-phrasing things just to make sure we have understood and to better remember.
+
+Publish your detailed notes if you have a blog.
+
+## Level 7
+
+[[Zettelkasten]] method. Turn literature notes to ever-green notes (permanent notes).
