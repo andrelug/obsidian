@@ -1,5 +1,5 @@
 ---
-Tags: 📥 📚 🔴
+Tags: 📥 📚 🟢
 Type: book
 ---
 
@@ -12,6 +12,10 @@ Ending Date:
 ---
 
 ## Summary
+
+**The key message in this book**: Becoming a good writer means learning to be a good observer, taking notes on everything that happens in your life, and seeking to express the truth. It also requires discipline, which is best nurtured by establishing and sticking to a daily writing routine. Once you’re in the flow of writing, don’t be afraid to produce “shitty first drafts,” as this is the most fruitful way to begin a project.
+
+**Actionable advice**: Don’t escape your feelings; examine and use them in your work. If you want to be a good writer, you can’t avoid your emotions. You have to confront them so that you can present your feelings as truthfully as possible in your writing. But it’s not enough to just think about your feelings. You have to truly feel them. While this can be painful, many writers find that the experience of writing about their feelings often soothes any pain that arises.
 
 ## Chapter 2
 
@@ -76,3 +80,36 @@ Attending to details can help mold the structure of your story. Often, when a wr
 
 ## Chapter 9
 
+When you hit writer’s block [[Creative block]], back off and take a breath so you can find your confidence.
+
+It happens to every writer: suddenly, you simply have no idea of what to write. In other words, you’ve been struck with writer’s block. The feeling of being creatively empty can be debilitating, much like shame and frustration. Fortunately, though, there are things you can do to get through this.
+
+The first step is accepting that you’re blocked. Just admit to yourself that you’re just not in a creative mood at the moment. Yet also make sure you stick to your established routine, and write at least a single page each day – no matter how terrible or difficult the task of constructing sentences may feel. Ultimately, what will get you through the block is your confidence – that is, the knowledge that soon, you will be able to write again. In this way, confidence is like a supporting pole that keeps you upright. But what happens when you lose your confidence and your inspiration? This is a tough situation. But you can regain your confidence by listening to your intuition and trusting yourself. Try to stay calm, still your mind and breathe – and listen to your intuition. By not panicking, you’ll stay connected and will eventually get yourself back on track.
+
+Don’t forget, however, that if your intuition is telling you that the story you’re blocked on is simply not good, you still have to observe and respect that information. Writer’s block can stop a truly great story from ever being completed. Sometimes, however, you’ll find yourself blocked – struggling because the paragraph, chapter or story you’re working on is just poor. So, how can you know for certain whether you should struggle through or allow yourself to let go? Only your intuition can guide you.
+
+## Chapter 10
+
+Look at your weaknesses with humor and generosity, and then write about them.
+
+We all deny our own feelings. For writers, especially, denying one’s feelings can result in a great loss, since the value of what we feel is in what we learn from those feelings. This is true even when it comes to potentially dangerous feelings – like jealousy. For a writer, being jealous of other writers is risky and potentially degrading. There’s simply nothing positive to gain from it; it only makes you paranoid, miserable and lonely.
+
+Whether you pursue writing as a career or as a personal goal, jealousy might be a familiar feeling. For instance, if your best friend’s book is published to rave reviews while yours founders at Chapter 6, you might get jealous and decide not to talk to that friend. Yet if you let these negative feelings grow, they might expand to include all writers, and eventually even to you and your own writing. This is how incredibly toxic jealousy is: if you allow it to fester unchecked, it will poison your personality and your writing life. **Whatever your feelings – whether jealousy, misery or fear – don’t shy away from them. Instead, turn your writer’s eye toward them and try to describe the beauty hidden within**.
+
+Fully experiencing your feelings and capturing them in words will help you grow both as a writer and as a person. Of course, confronting your feelings is difficult. Things like love, pain and loss can be extremely difficult to spend endless time with. But in the end, when you face your emotions you’ll feel stronger and, eventually, you’ll rediscover your sense of humor. Crying and laughing are two sides of the same coin, and with time, what seemed the end of the world might end up being one of the more poignant moments in your life. As a writer, you can use all these emotions to explore certain characteristics in yourself and in other people – and then give them to your story’s characters.
+
+## Chapter 11
+
+Find the right people to talk to about your work.
+
+The world is full of stories. There are so many people out there waiting to share their own, looking for just the right writer – like you. All you have to do is talk to them! Of course, writing is usually a solitary endeavor, and for that reason many writers end up isolating themselves. Try to avoid this in your own writing life. After a long stretch at the desk, grinding away at your work, you may begin to show signs of dissociation – to the extent that you can’t distinguish reality from fiction. Don’t wait until you reach this point to reach out to others! Instead, seek inspiration in other people’s lives.
+
+For example, you could spark up a conversation with a stranger while you’re taking a break in the park; their story might inspire you. Who wouldn’t want the chance for their own story to be told? Another way to gain inspiration from the “outside world” while you’re writing is to share and discuss your work with other writers. If you don’t have any friends who write, you could join a writing group. Creative writing classes and writing workshops allow you to discuss your work with other people living a writing life. But be careful: some of these groups have a reputation for being ruthlessly critical, and your work might be torn to shreds, both by instructors and fellow writers, which could shatter your confidence. **So when you feel the need for attention and you want a professional opinion about your work, try to find someone who can be both supportive and constructively critical**.
+
+## Chapter 12
+
+**Being a good writer is more important than being published**.
+
+Why is it that so many writers are obsessed with being published? Certainly, writers need readers. No one wants to write in a vacuum. Writers also want affirmation of their talents. For many writers, though, the desire to get published, find an audience and, ultimately, enjoy wide acclaim can turn into an obsession. And if you expect that getting published will bring you fame and wealth, you’ll be quickly disappointed.
+
+If you’re lucky, your book will be published, you’ll get a handful of favorable reviews, some people will come to see you at a reading, and your agent might send you flowers. But, most likely, you won’t get famous or rich from publishing your book. The most important thing to remember about publishing is that if you’re not a good writer before being published, you won’t be a good writer afterwards either. Being published doesn’t make you a good writer. However, getting published means you’ve achieved something that every writer wants. It also means that the writing community is applauding you, saying that you did a good job. In the end, what matters most is the journey you travel while writing – both the process of putting words on a page and the personal and emotional transformation you experience while practicing your craft. Think of getting published then as a special treat. Your real reward for all that hard work is getting to live a writer’s life – achieving some small goal every day and caring deeply about your work. When you think of it that way, being published is merely a tool to help you gain readers, and nothing more. And in the end, writers choose to do what they do because reading and writing expands their sense of life and feeds their soul.
