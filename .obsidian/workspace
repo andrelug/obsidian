@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a05d6378a6ad0a8c",
+        "id": "4228e52eab724b8b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-03-26 Bird by bird.md",
+            "file": "📝Diário/2022-03-26.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03-26 Bird by bird.md",
+                "file": "📝Diário/2022-03-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-03-26 Bird by bird.md",
+                "file": "📝Diário/2022-03-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,17 +111,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a05d6378a6ad0a8c",
+  "active": "4228e52eab724b8b",
   "lastOpenFiles": [
+    "📝Diário/2022-03-26.md",
     "2022-03-26 Bird by bird.md",
+    "Untitled.md",
     "Writing style.md",
     "MOCs/Writing.md",
     "📝Diário/2022-03-25.md",
     "Brandon Sanderson on Writing Science Fiction and Fantasy.md",
     "⚙️Admin/Templates/Course.md",
     "⚙️Admin/Templates/Video.md",
-    "⚙️Admin/Templates/Concept.md",
-    "World Building Design references.md",
-    "⚙️Admin/Templates/Reference.md"
+    "⚙️Admin/Templates/Concept.md"
   ]
 }
