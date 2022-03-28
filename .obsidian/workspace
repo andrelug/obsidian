@@ -7,8 +7,13 @@
         "id": "aa69ee0ac1b358a7",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2022-03-22 The essential habit billionaires practice everyday.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022-03-22 The essential habit billionaires practice everyday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,13 +98,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2022-03-22 The essential habit billionaires practice everyday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -106,15 +113,15 @@
   },
   "active": "aa69ee0ac1b358a7",
   "lastOpenFiles": [
-    "2022-03-23 Neuromarketing- You're Being Manipulated.md",
-    "2022-03-23 Stoicism Become Undefeatable.md",
-    "2022-03-18 The 10 most useful mental models.md",
-    "2022-03-22 How I made 4,790,000 in 2021.md",
-    "2022-03-25 My Productivity System (2022).md",
-    "My values.md",
+    "2022-03-22 The essential habit billionaires practice everyday.md",
+    "2022-03-18 You will never be lazy again.md",
+    "2022-03-18 Is this Cheating. Little Known Biohacks.md",
+    "2022-03-16 Discover the 6 human needs.md",
+    "MOCs/Writing.md",
+    "MOCs/Nosso Amigo.md",
+    "MOCs/Learning.md",
+    "MOCs/Productivity.md",
     "2022-03-25 How I remember everything I read.md",
-    "World Building Design references.md",
-    "Brandon Sanderson on Writing Science Fiction and Fantasy.md",
-    "2022-03-26 Bird by bird.md"
+    "2022-03-23 Neuromarketing- You're Being Manipulated.md"
   ]
 }
