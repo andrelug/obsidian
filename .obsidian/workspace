@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "aaef32511df00dc0",
+        "id": "736e1ab994f32b1f",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#🔴",
+                "query": "growth mindset",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,17 +104,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "aaef32511df00dc0",
+  "active": "736e1ab994f32b1f",
   "lastOpenFiles": [
-    "2022-03-26 Bird by bird.md",
+    "📝Diário/Weekly/2022-03 Week 4.md",
+    "📝Diário/Weekly/2022-03 Week 3.md",
+    "📝Diário/Weekly/2022-03 Week 2.md",
+    "📝Diário/2022-03-27.md",
+    "2022-03-27 How to Build the Most Powerful Mindset for Success.md",
     "Untitled.md",
+    "2022-03-21 How to be the type of person everyone wats to know.md",
+    "2022-03-26 Bird by bird.md",
     "📝Diário/2022-03-26.md",
-    "Writing style.md",
-    "MOCs/Writing.md",
-    "📝Diário/2022-03-25.md",
-    "Brandon Sanderson on Writing Science Fiction and Fantasy.md",
-    "⚙️Admin/Templates/Course.md",
-    "⚙️Admin/Templates/Video.md",
-    "⚙️Admin/Templates/Concept.md"
+    "Writing style.md"
   ]
 }

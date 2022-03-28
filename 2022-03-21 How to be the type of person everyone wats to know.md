@@ -3,11 +3,11 @@ Tags: 📥 🎥 🟢
 Type: video
 ---
 
-Tags: [[Self-help]], [[Personal Development]], [[Self-confidence]]
+Tags: [[Self-help]], [[Personal Development]], [[Self-confidence]], [[Growth mindset]]
 Title: 2022-03-21 How to be the type of person everyone wats to know
 URL: https://www.youtube.com/watch?v=an5iJe3vx2Y
 Channel: [[The Art of Improvement]]
-Reference: 
+Reference: [[2022-03-27 How to Build the Most Powerful Mindset for Success]]
 
 ---
 
