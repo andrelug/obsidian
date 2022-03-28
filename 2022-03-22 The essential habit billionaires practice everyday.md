@@ -3,7 +3,7 @@ Tags: 📥 🎥 🟢
 Type: video
 ---
 
-Tags: [[Habits]]
+Tags: [[Habits]], [[Law of attraction]]
 Title: The essential habit billionaires practice everyday
 URL: https://www.youtube.com/watch?v=2iPFtZENEq4
 Channel: [[@ Be Inspired]]

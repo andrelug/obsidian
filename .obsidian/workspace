@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "736e1ab994f32b1f",
+        "id": "aa69ee0ac1b358a7",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "growth mindset",
+                "query": "secret",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,17 +104,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "736e1ab994f32b1f",
+  "active": "aa69ee0ac1b358a7",
   "lastOpenFiles": [
-    "📝Diário/Weekly/2022-03 Week 4.md",
-    "📝Diário/Weekly/2022-03 Week 3.md",
-    "📝Diário/Weekly/2022-03 Week 2.md",
-    "📝Diário/2022-03-27.md",
-    "2022-03-27 How to Build the Most Powerful Mindset for Success.md",
-    "Untitled.md",
-    "2022-03-21 How to be the type of person everyone wats to know.md",
-    "2022-03-26 Bird by bird.md",
-    "📝Diário/2022-03-26.md",
-    "Writing style.md"
+    "2022-03-23 Neuromarketing- You're Being Manipulated.md",
+    "2022-03-23 Stoicism Become Undefeatable.md",
+    "2022-03-18 The 10 most useful mental models.md",
+    "2022-03-22 How I made 4,790,000 in 2021.md",
+    "2022-03-25 My Productivity System (2022).md",
+    "My values.md",
+    "2022-03-25 How I remember everything I read.md",
+    "World Building Design references.md",
+    "Brandon Sanderson on Writing Science Fiction and Fantasy.md",
+    "2022-03-26 Bird by bird.md"
   ]
 }
