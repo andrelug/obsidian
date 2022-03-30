@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "aa69ee0ac1b358a7",
+        "id": "510b36276680f3dd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📝Diário/2022-03-29.md",
+            "file": "2022-03-29 War of Art.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝Diário/2022-03-29.md",
+                "file": "2022-03-29 War of Art.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝Diário/2022-03-29.md",
+                "file": "2022-03-29 War of Art.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,17 +111,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "aa69ee0ac1b358a7",
+  "active": "510b36276680f3dd",
   "lastOpenFiles": [
+    "2022-03-29 War of Art.md",
+    "@ Seth Stephens-Davidowitz.md",
+    "2022-03-26 Bird by bird.md",
     "📝Diário/2022-03-29.md",
     "2022-03-22 The essential habit billionaires practice everyday.md",
     "2022-03-18 You will never be lazy again.md",
     "2022-03-18 Is this Cheating. Little Known Biohacks.md",
     "2022-03-16 Discover the 6 human needs.md",
     "MOCs/Writing.md",
-    "MOCs/Nosso Amigo.md",
-    "MOCs/Learning.md",
-    "MOCs/Productivity.md",
-    "2022-03-25 How I remember everything I read.md"
+    "MOCs/Nosso Amigo.md"
   ]
 }
