@@ -1,6 +1,6 @@
 {
-  "baseFontSize": 17,
-  "cssTheme": "Things",
+  "baseFontSize": 16,
+  "cssTheme": "Obsidian Nord",
   "enabledCssSnippets": [
     "supercharged-links-gen"
   ]
