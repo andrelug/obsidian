@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-03-30 Atomic Habits.md",
+            "file": "📝Diário/2022-03-31.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "secret",
+                "query": "alpha",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03-30 Atomic Habits.md",
+                "file": "📝Diário/2022-03-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-03-30 Atomic Habits.md",
+                "file": "📝Diário/2022-03-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,15 +113,15 @@
   },
   "active": "510b36276680f3dd",
   "lastOpenFiles": [
+    "📝Diário/2022-03-31.md",
+    "2022-03-18 You will never be lazy again.md",
     "2022-03-30 Atomic Habits.md",
     "2022-03-29 War of Art.md",
     "@ Seth Stephens-Davidowitz.md",
     "2022-03-26 Bird by bird.md",
     "📝Diário/2022-03-29.md",
     "2022-03-22 The essential habit billionaires practice everyday.md",
-    "2022-03-18 You will never be lazy again.md",
     "2022-03-18 Is this Cheating. Little Known Biohacks.md",
-    "2022-03-16 Discover the 6 human needs.md",
-    "MOCs/Writing.md"
+    "2022-03-16 Discover the 6 human needs.md"
   ]
 }
