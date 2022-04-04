@@ -1,5 +1,5 @@
 ---
-Tags: 🐧/🌱
+Tags: 🐧/🌿
 Type: foundation
 ---
 
@@ -8,11 +8,15 @@ Type: foundation
 
 Different roles I have:
 
+**With others**
 [[Father]]
 [[Husband]]
 [[Friend]]
 [[Business Partner]]
+[[Son]]
+
+**With myself**
 [[Entrepreneur]]
 [[Athlete]]
-[[Son]]
 [[Influencer]]
+[[Writer]]
