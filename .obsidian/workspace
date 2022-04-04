@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0b8464a048f3f37c",
+        "id": "6f6a0af4858ad808",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2022-04-04 Neuroscientist Never Feel Tired During The Day Andrew Huberman.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#📝",
+                "query": "alpha",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 294.5
   },
   "right": {
     "id": "37b3eb3201dbdc69",
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022-04-04 Neuroscientist Never Feel Tired During The Day Andrew Huberman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2022-04-04 Neuroscientist Never Feel Tired During The Day Andrew Huberman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -104,17 +111,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0b8464a048f3f37c",
+  "active": "6f6a0af4858ad808",
   "lastOpenFiles": [
-    "2022-03-30 Atomic Habits.md",
+    "2022-04-04 Neuroscientist Never Feel Tired During The Day Andrew Huberman.md",
+    "📝Diário/2022-03-31.md",
     "MOCs/Nosso Amigo.md",
-    "📥Inbox/Conteúdos.md",
-    "Mapa Nagouwn.md",
-    "+ 2022-03-17 vieo x.md",
-    "+ 2022-03-03 10 Notion Beginner Mistakes.md",
-    "+ 2022-3-03 Pensamentos Do YouTube sobre futuro da tecnologia.md",
-    "⚙️Admin/Taxonomia.md",
-    "Sunk-cost bias.md",
-    "+ 2022-03-12 3 Formas de Produzir um Trabalho Excepcional.md"
+    "2022-03-30 Atomic Habits.md",
+    "2022-03-18 You will never be lazy again.md",
+    "2022-03-29 War of Art.md",
+    "@ Seth Stephens-Davidowitz.md",
+    "2022-03-26 Bird by bird.md",
+    "📝Diário/2022-03-29.md",
+    "2022-03-22 The essential habit billionaires practice everyday.md"
   ]
 }
