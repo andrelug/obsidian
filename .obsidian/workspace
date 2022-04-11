@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "⚙️Admin/Want.md",
+            "file": "2022-04-11 I read 300 self-improvement books to learn these 3 lessons.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚙️Admin/Want.md",
+                "file": "2022-04-11 I read 300 self-improvement books to learn these 3 lessons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⚙️Admin/Want.md",
+                "file": "2022-04-11 I read 300 self-improvement books to learn these 3 lessons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,6 +113,7 @@
   },
   "active": "6f6a0af4858ad808",
   "lastOpenFiles": [
+    "2022-04-11 I read 300 self-improvement books to learn these 3 lessons.md",
     "⚙️Admin/Want.md",
     "⚙️Admin/_focus.md",
     "⚙️Admin/Who.md",
@@ -121,7 +122,6 @@
     "Athlete.md",
     "Son.md",
     "Friend.md",
-    "Entrepreneur.md",
-    "Father.md"
+    "Entrepreneur.md"
   ]
 }
