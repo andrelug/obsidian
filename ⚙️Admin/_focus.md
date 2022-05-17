@@ -20,6 +20,9 @@ This is a framework to better understand where should I go, which projects to ta
 All that must be aligned and connected to the my [[Principles]].
 
 
+## Reflexões
+- [[2022 Life Study]]
+
 ## Exercises
 
 - [[My Values - Exercises]]

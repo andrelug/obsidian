@@ -4,12 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "6f6a0af4858ad808",
+        "id": "7a9a470c66d8dbf9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nootropics.md",
+            "file": "2022 Life Study.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "351f4e3f058e7eff",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Father.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nootropics.md",
+                "file": "Father.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nootropics.md",
+                "file": "Father.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,17 +124,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6f6a0af4858ad808",
+  "active": "351f4e3f058e7eff",
   "lastOpenFiles": [
+    "Father.md",
+    "2022 Life Study.md",
+    "⚙️Admin/_focus.md",
+    "⚙️Admin/Want.md",
+    "⚙️Admin/Who.md",
+    "Untitled.md",
     "Nootropics.md",
     "2022-03-22 How I made 4,790,000 in 2021.md",
     "📝Diário/2022-04-18.md",
-    "2022-04-11 I read 300 self-improvement books to learn these 3 lessons.md",
-    "⚙️Admin/Want.md",
-    "⚙️Admin/_focus.md",
-    "⚙️Admin/Who.md",
-    "Writer.md",
-    "Influencer.md",
-    "Athlete.md"
+    "2022-04-11 I read 300 self-improvement books to learn these 3 lessons.md"
   ]
 }
