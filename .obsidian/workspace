@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Father.md",
+                "file": "2022 Life Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Father.md",
+                "file": "2022 Life Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,10 +124,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "351f4e3f058e7eff",
+  "active": "7a9a470c66d8dbf9",
   "lastOpenFiles": [
-    "Father.md",
     "2022 Life Study.md",
+    "Father.md",
     "⚙️Admin/_focus.md",
     "⚙️Admin/Want.md",
     "⚙️Admin/Who.md",

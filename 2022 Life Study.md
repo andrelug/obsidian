@@ -56,4 +56,4 @@
 - Ter outro filho?
 - Dar mais prazos para serviços?
 - Ter animais de estimação?
-- Padronizar cloudflare, updraft, cyberpanel, uptime, etc
+- Padronizar cloudflare, updraft, cyberpanel, uptime, smtp, etc
