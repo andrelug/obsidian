@@ -57,3 +57,80 @@
 - Dar mais prazos para serviços?
 - Ter animais de estimação?
 - Padronizar cloudflare, updraft, cyberpanel, uptime, smtp, etc
+
+
+## Organizações a fazer
+- YouTube
+	- Lista de vídeos a gravar
+		- Tutoriais
+		- Tips - respostas para necessidades comuns
+		- Plugins e addons
+	- Temas
+		- Notion
+		- Elementor
+		- ClickUp
+		- VPN
+		- VPS
+		- Hosting
+		- Outros APPs (afiliados)
+- Blogs
+	- Iglu
+		- Contratar alguém
+		- 1 por dia
+		- Afiliado
+	- André lug
+		- 1 por semana
+		- Completar freelancer
+- Hábitos
+	- Meditação
+	- Exercício
+	- Beber água
+	- Jejum
+	- Banho gelado
+	- Cama 10pm
+	- NoFap
+	- Japonês
+	- Wim Hof
+	- 3 prioridades
+	- Escrever livro
+	- Gravar vídeos
+	- Escrever posts
+	- Kombucha
+	- Carvvo
+	- Pinas
+- Estudos
+	- Headway / Storyshots / Mentorist
+	- Audiobook / Podcasts
+	- Netflix / YouTube
+	- Anki / Drops
+	- Uptime / Volume (apps)
+- Comunicação
+	- Email
+	- WhatsApp
+	- Telegram
+	- Slowly
+	- Instagram
+- Tools
+	- ClickUp
+	- Notion
+	- Rabit
+	- BetterSleep
+	- Obsidian
+- Needs
+	- Lista de livros
+	- Lista de podcasts
+	- Descrição e esquema do sistema
+	- Unificar tarefas recorrentes e rotinas
+	- Horários do nootrópicos
+	- Ordem dos conteúdos
+		- vídeos
+		- posts
+		- afiliações
+	- Registro de mais afiliados - quais?
+	- Backup das senhas
+	- Lista de oportunidades
+		- projetos
+		- posts
+		- agências
+		- empresas para abordar
+	- Lista de cursos
