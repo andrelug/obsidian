@@ -133,4 +133,4 @@
 		- posts
 		- agências
 		- empresas para abordar
-	- Lista de cursos
+	- ~~Lista de cursos
