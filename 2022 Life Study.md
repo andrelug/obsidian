@@ -117,7 +117,7 @@
 	- BetterSleep
 	- Obsidian
 - Needs
-	- Lista de livros
+	- ~~Lista de livros
 	- Lista de podcasts
 	- Descrição e esquema do sistema
 	- Unificar tarefas recorrentes e rotinas
