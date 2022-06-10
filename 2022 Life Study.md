@@ -32,13 +32,34 @@
 
 ## Estudo de um dia
 **Dia da semana**
-- 05:30 - Acorda + meditação + suplementos
+- 05:30 - Rotina manhã
+	- Meditação
+	- Suplementos
+	- Regar plantas
 - 06:00 - Academia
-- 07:30 - Arrumar Ravi + levar pra escola + podcast
-- 09:00 - Conteúdo + livro + demandas Ravi pontuais
+	- Drops japones
+	- Alongamento
+	- Banho gelado
+- 07:30 - Ravi escola
+	- Arrumar Ravi
+	- Levar
+	- Ouvir podcast
+	- Sunning 10m 2x semana
+- 09:00 - Momento criativo
+	- Confere se tem demandas Ravi
+	- Produz conteúdo
 - 12:00 - Almoço + entretenimento
-- 13:00 - Iglu + demandas família
-- 18:00 - Rotina noite Ravi + arrumar casa
+	- 20m palming
+	- Visão periférica
+	- Olhar detalhes
+	- Tabela visual
+- 13:00 - Iglu
+	- Breaks 2h
+	- Automassagem
+	- Confere se tem demandas da família
+- 18:00 - Rotina noite Ravi
+	- Arrumar casa
+	- Tempo no escuro
 - 21:30 - Dormir
 
 
