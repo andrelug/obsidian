@@ -24,4 +24,4 @@
 		- Qualidade do ar
 		- Lar não aconchegante
 		- Falta de tempo com Ravi
-		- 
+
