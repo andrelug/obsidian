@@ -22,6 +22,7 @@ All that must be aligned and connected to the my [[Principles]].
 
 ## Reflexões
 - [[2022 Life Study]]
+- [[2022 Travel Study]]
 
 ## Exercises
 
