@@ -9,4 +9,13 @@
 		- Custo baixo + glamour
 	- Todos
 		- Natureza
+
+
+- Dores hoje
+	- André
+		- Gasto alto
+		- Falta de contato com natureza
+		- Dificuldade de manter uma rotina
+		- Dificuldade de priorizar o trabalho
+		- Pressões de mais tarefas em casa
 		- 
