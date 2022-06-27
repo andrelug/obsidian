@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022 Travel Study.md",
+            "file": "Untitled.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022 Travel Study.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022 Travel Study.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,6 +113,7 @@
   },
   "active": "f1c7c3a923f67b4b",
   "lastOpenFiles": [
+    "Untitled.md",
     "2022 Travel Study.md",
     "⚙️Admin/_focus.md",
     "2022 Life Study.md",
@@ -120,7 +121,6 @@
     "Father.md",
     "⚙️Admin/Want.md",
     "⚙️Admin/Who.md",
-    "Untitled.md",
     "Nootropics.md",
     "2022-03-22 How I made 4,790,000 in 2021.md"
   ]
