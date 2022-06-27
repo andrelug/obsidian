@@ -41,12 +41,13 @@
 - Total: R$ 12900
 - Total (voltando em outubro): R$ 13700
 
-## Análise custos Ásia
-- Casa: R$ 2600 
+## Análise custos Ásia (10 meses)
+- Casa: R$ 3100
 - Fixos: R$ 2400
 - Alimentação: R$ 2000
-- Transporte: R$ 3000
-- Total: R$ 1000
+- Transporte: R$ 4000
+- Total: R$ 11500
+- Passeio e extras: ?
 
 
 ## Floripa vs Bichinho
