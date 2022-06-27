@@ -41,6 +41,13 @@
 - Total: R$ 12900
 - Total (voltando em outubro): R$ 13700
 
+## Análise custos Ásia
+- Casa: R$ 2600 
+- Fixos: R$ 2400
+- Alimentação: R$ 2000
+- Transporte: R$ 3000
+- Total: R$ 1000
+
 
 ## Floripa vs Bichinho
 | Floripa                      | Bichinho                      |
