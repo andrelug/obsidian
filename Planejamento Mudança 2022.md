@@ -3,9 +3,9 @@
 ## O que precisa para mudar
 - Contratos
 	- Vivo Internet
-	- Aluguel
+	- <del>Aluguel</del>
 		- taxa de IPTU já paga
-	- Escolinha do Ravi
+	- <del>Escolinha do Ravi</del>
 	- Cemig
 		- conta final
 	- Condomínio
