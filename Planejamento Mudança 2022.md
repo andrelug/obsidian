@@ -25,11 +25,11 @@
 
 
 ## Análise custos Bichinho
-- Casa: R$ 3000
+- Casa: R$ 3300
 - Fixos: R$ 2800
 - Alimentação: R$ 2000
 - Transporte: R$ 400
-- Total: R$ 8200
+- Total: R$ 8500
 
 
 ## Análise custos Floripa
