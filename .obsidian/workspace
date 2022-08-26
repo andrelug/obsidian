@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "22-07-11 How I Destroy Overwhelm.md",
-            "mode": "preview",
+            "file": "2022-08-26 The procrastination cure you don't want to hear.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "22-07-11 How I Destroy Overwhelm.md",
+                "file": "2022-08-26 The procrastination cure you don't want to hear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "22-07-11 How I Destroy Overwhelm.md",
+                "file": "2022-08-26 The procrastination cure you don't want to hear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,6 +113,7 @@
   },
   "active": "f1c7c3a923f67b4b",
   "lastOpenFiles": [
+    "22-07-11 How I Destroy Overwhelm.md",
     "2022-03-22 How I made 4,790,000 in 2021.md",
     "⚙️Admin/_focus.md",
     "2022 Travel Study.md",
@@ -121,7 +122,6 @@
     "⚙️Admin/Taxonomia.md",
     "2022 Life Study.md",
     "⚙️Admin/When.md",
-    "Father.md",
-    "⚙️Admin/Want.md"
+    "Father.md"
   ]
 }
