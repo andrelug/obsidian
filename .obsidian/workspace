@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f1c7c3a923f67b4b",
+        "id": "a0fc04c8d819bb10",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Tailândia 2023.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tailândia 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tailândia 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,8 +104,9 @@
     "direction": "horizontal",
     "width": 262.5
   },
-  "active": "f1c7c3a923f67b4b",
+  "active": "a0fc04c8d819bb10",
   "lastOpenFiles": [
+    "Tailândia 2023.md",
     "2022-08-26 The procrastination cure you don't want to hear.md",
     "22-07-11 How I Destroy Overwhelm.md",
     "2022-03-22 How I made 4,790,000 in 2021.md",
@@ -121,7 +115,6 @@
     "Planejamento Mudança 2022.md",
     "⚙️Admin/My Values - Exercises.md",
     "⚙️Admin/Taxonomia.md",
-    "2022 Life Study.md",
-    "⚙️Admin/When.md"
+    "2022 Life Study.md"
   ]
 }
