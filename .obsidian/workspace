@@ -7,8 +7,13 @@
         "id": "a0fc04c8d819bb10",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2022-03-18 You will never be lazy again.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "@ ali abda",
+                "query": "jim kwik",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022-03-18 You will never be lazy again.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2022-03-18 You will never be lazy again.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -104,7 +111,7 @@
     "direction": "horizontal",
     "width": 262.5
   },
-  "active": "a0fc04c8d819bb10",
+  "active": "cc26937f1a7b5a29",
   "lastOpenFiles": [
     "Tailândia 2023.md",
     "2022-08-26 The procrastination cure you don't want to hear.md",
