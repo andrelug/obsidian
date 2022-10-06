@@ -33,3 +33,4 @@ How she picks a niche
 - Ad revenue
 	- Try to find niches where people are spending money, so advertisers will also spend money - ex: pests, luxery travel
 - Easy to find writers - level of expertise
+
