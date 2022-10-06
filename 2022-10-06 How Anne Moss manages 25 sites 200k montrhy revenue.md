@@ -20,7 +20,7 @@ Reference: [[Entrepreneur]], [[Ads]]
 She manages 25 websites making a lot of money, 90%+ is ads from
 - Adthrive
 - Mediavine
-Avarage CPM - US$ 45-65
+Avarage RPM - US$ 45-65
 
 She focus on the big picture and not on the small details. She publishes 1000 posts por month with a 50 people team
 
@@ -34,3 +34,4 @@ How she picks a niche
 	- Try to find niches where people are spending money, so advertisers will also spend money - ex: pests, luxery travel
 - Easy to find writers - level of expertise
 
+don't need much work with photos or videos.
