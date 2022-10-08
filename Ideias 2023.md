@@ -37,8 +37,8 @@ Type: foundation
 	- Youtube
 		- vídeo - 1x semana
 		- shorts - 1x dia
-	- LinkedIn
-		- 
+	- LinkedIn, Pinterest
+		- post whatever is on the others
 - Blog / site
 	- post - 4x dia
 	- curso - 1x mês
