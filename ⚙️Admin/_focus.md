@@ -28,4 +28,4 @@ All that must be aligned and connected to the my [[Principles]].
 
 - [[My Values - Exercises]]
 - [[My Internet Persona]]
-- 
+- [[Ideias 2023]]
