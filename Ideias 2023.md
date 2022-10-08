@@ -35,10 +35,25 @@ Type: foundation
 		- feed - 3x semana
 		- stories - ?
 	- Youtube
-		- vídeo - 1x semana
+		- vídeo - 1x semana para cada canal
+			- Aproveitar dinâmica do matt d'avella
 		- shorts - 1x dia
 	- LinkedIn, Pinterest
 		- post whatever is on the others
 - Blog / site
 	- post - 4x dia
 	- curso - 1x mês
+		- Aproveitar dinâmica do venda todo santo dia
+- Afiliados
+	- Organizar os principais e fazer séries com eles
+- Testar dirty content
+- Reaproveitar conteúdos
+- Trazer o mautic pro fluentcrm?
+
+### Servidores
+- Rodar ads
+- Entrar em contato com agências de mkt pelo brasil e fora
+
+### Pessoal
+- Hábitos novamente
+- Falar mais não e priorizar melhor as coisas
