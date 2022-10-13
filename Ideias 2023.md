@@ -57,3 +57,7 @@ Type: foundation
 ### Pessoal
 - Hábitos novamente
 - Falar mais não e priorizar melhor as coisas
+
+### Testes
+- Automação e-mails contact form para servidores
+- Crypto new tokens
