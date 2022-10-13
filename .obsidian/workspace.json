@@ -38,16 +38,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0534b197d97e94d8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
           }
         ]
       }
@@ -153,8 +143,8 @@
   },
   "active": "2e864d492fdf1522",
   "lastOpenFiles": [
-    "⚙️Admin/My Internet Persona.md",
     "Ideias 2023.md",
+    "⚙️Admin/My Internet Persona.md",
     "⚙️Admin/_focus.md",
     "⚙️Admin/Who.md",
     "2022-04-11 I read 300 self-improvement books to learn these 3 lessons.md",
