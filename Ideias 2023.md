@@ -40,15 +40,24 @@ Type: foundation
 		- shorts - 1x dia
 	- LinkedIn, Pinterest
 		- post whatever is on the others
+	- publicação automática
+		- https://appsumo.com/products/marketplace-radaar/
 - Blog / site
 	- post - 4x dia
 	- curso - 1x mês
 		- Aproveitar dinâmica do venda todo santo dia
+	- AI
+		- https://appsumo.com/products/marketplace-wordhero/#reviews
 - Afiliados
 	- Organizar os principais e fazer séries com eles
 - Testar dirty content
 - Reaproveitar conteúdos
 - Trazer o mautic pro fluentcrm?
+- Plugins
+	- funnelkit ou wpfunnels
+	- automatorwp
+	- https://console.cron-job.org/login
+	- https://wordpress.org/plugins/freesoul-deactivate-plugins/
 
 ### Servidores
 - Rodar ads
