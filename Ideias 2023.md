@@ -70,3 +70,5 @@ Type: foundation
 ### Testes
 - Automação e-mails contact form para servidores
 - Crypto new tokens
+- https://app.uniswap.org/
+- contratar ahref
