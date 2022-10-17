@@ -72,3 +72,7 @@ Type: foundation
 - Crypto new tokens
 - https://app.uniswap.org/
 - contratar ahref
+- yt pilantra
+	- compilações
+	- texto > https://invideo.io/
+	- https://vidiq.com/pt/
