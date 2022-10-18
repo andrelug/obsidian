@@ -71,6 +71,10 @@ Type: foundation
 - Automação e-mails contact form para servidores
 - Crypto new tokens
 - https://app.uniswap.org/
+- https://hunter.io/
+- https://alsoasked.com/
+- https://www.getwsodo.com/
+- https://answerthepublic.com/
 - contratar
 	- ahref
 	- surfer seo
