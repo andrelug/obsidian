@@ -71,7 +71,10 @@ Type: foundation
 - Automação e-mails contact form para servidores
 - Crypto new tokens
 - https://app.uniswap.org/
-- contratar ahref
+- contratar
+	- ahref
+	- surfer seo
+	- jasper
 - yt pilantra
 	- compilações
 	- texto > https://invideo.io/
