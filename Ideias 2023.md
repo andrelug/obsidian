@@ -43,6 +43,7 @@ Type: foundation
 	- publicação automática
 		- https://appsumo.com/products/marketplace-radaar/
 - Blog / site
+	- Reestruturar site
 	- post - 4x dia
 	- curso - 1x mês
 		- Aproveitar dinâmica do venda todo santo dia
