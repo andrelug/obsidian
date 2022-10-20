@@ -50,6 +50,15 @@ Type: foundation
 		- Aproveitar dinâmica do venda todo santo dia
 	- AI
 		- https://appsumo.com/products/marketplace-wordhero/#reviews
+	- Referências
+		- https://dollarsprout.com/
+		- https://www.keepproductive.com/
+		- https://jamesclear.com/articles
+		- https://zenhabits.net/
+		- https://www.adamenfroy.com/how-to-start-a-blog
+			- https://www.adamenfroy.com/best-high-paying-affiliate-programs
+			- https://www.adamenfroy.com/ai-video-editor
+		- https://colinshipp.com/
 - Afiliados
 	- Organizar os principais e fazer séries com eles
 - Testar dirty content
@@ -77,6 +86,10 @@ Type: foundation
 - https://alsoasked.com/
 - https://www.getwsodo.com/
 - https://answerthepublic.com/
+- https://www.amplenote.com/
+- https://capacities.io/
+- tana
+- https://br.wordpress.org/plugins/easy-table-of-contents/
 - contratar
 	- ahref
 	- surfer seo
