@@ -24,4 +24,13 @@ Type: foundation
 - Organização
 
 ### Tom
-- Descontraído / um pouco de humor
+- Descontraído
+- Um pouco de humor
+- Informativo
+
+### Vestimenta
+- Informal
+
+### Assinaturas
+- Divirta-se
+
