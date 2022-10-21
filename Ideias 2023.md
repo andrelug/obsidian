@@ -3,9 +3,6 @@ Tags: 🐧/🌿
 Type: foundation
 ---
 
-# Ideias 2023
----
-
 ### Blog
 - Usar AI para gerar grande quantidade de posts
 	- ~ R$ 250 por mês para 100k palavras (4 posts de 800 palavras por dia)
@@ -55,6 +52,8 @@ Type: foundation
 		- https://www.keepproductive.com/
 		- https://jamesclear.com/articles
 		- https://zenhabits.net/
+		- https://www.youtube.com/c/JeffSu
+		- https://thomasjfrank.com/articles/
 		- https://www.adamenfroy.com/how-to-start-a-blog
 			- https://www.adamenfroy.com/best-high-paying-affiliate-programs
 			- https://www.adamenfroy.com/ai-video-editor

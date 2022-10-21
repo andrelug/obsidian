@@ -4,30 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8f668dfb146cfb68",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e216b866540a194b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📝Diário/2022-10-20.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "57d43f7fd38ee7c4",
         "type": "tabs",
         "children": [
           {
             "id": "2e864d492fdf1522",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estrutura Andre Lug.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2bf14110272087df",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -97,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝Diário/2022-10-20.md",
+                "file": "Estrutura Andre Lug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝Diário/2022-10-20.md",
+                "file": "Estrutura Andre Lug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,17 +135,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e216b866540a194b",
+  "active": "2e864d492fdf1522",
   "lastOpenFiles": [
-    "⚙️Admin/My Internet Persona.md",
     "Ideias 2023.md",
+    "Estrutura Andre Lug.md",
+    "⚙️Admin/My Internet Persona.md",
     "⚙️Admin/_focus.md",
+    "📝Diário/2022-10-20.md",
     "⚙️Admin/Who.md",
     "2022-04-11 I read 300 self-improvement books to learn these 3 lessons.md",
     "2022-03-22 How I made 4,790,000 in 2021.md",
     "2022-10-06 How Anne Moss manages 25 sites 200k montrhy revenue.md",
-    "📝Diário/2022-10-03.md",
-    "Tailândia 2023.md",
-    "Planejamento Mudança 2022.md"
+    "📝Diário/2022-10-03.md"
   ]
 }
