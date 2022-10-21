@@ -54,6 +54,7 @@ Type: foundation
 		- https://zenhabits.net/
 		- https://www.youtube.com/c/JeffSu
 		- https://thomasjfrank.com/articles/
+		- https://saasaffiliate.com/
 		- https://www.adamenfroy.com/how-to-start-a-blog
 			- https://www.adamenfroy.com/best-high-paying-affiliate-programs
 			- https://www.adamenfroy.com/ai-video-editor
