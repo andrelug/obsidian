@@ -26,3 +26,7 @@ Type: foundation
 	- linka para vários conteúdos dentro de sua categoria e sub-categoria
 	- cada conteúdo individual linka para seu(s) conteúdo(s) pilar
 - Linkable content
+
+### Ideias e tópicos
+- Pensamento sistêmico
+- 
