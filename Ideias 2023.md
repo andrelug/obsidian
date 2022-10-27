@@ -90,6 +90,8 @@ Type: foundation
 - https://answerthepublic.com/
 - https://www.amplenote.com/
 - https://capacities.io/
+- https://reflect.app/
+- https://www.raycast.com/
 - https://www.napkin.one/
 - tana
 - https://br.wordpress.org/plugins/easy-table-of-contents/
