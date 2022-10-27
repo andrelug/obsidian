@@ -55,6 +55,7 @@ Type: foundation
 		- https://www.youtube.com/c/JeffSu
 		- https://thomasjfrank.com/articles/
 		- https://saasaffiliate.com/
+		- https://www.euorganizado.com/
 		- https://www.adamenfroy.com/how-to-start-a-blog
 			- https://www.adamenfroy.com/best-high-paying-affiliate-programs
 			- https://www.adamenfroy.com/ai-video-editor
@@ -88,6 +89,7 @@ Type: foundation
 - https://answerthepublic.com/
 - https://www.amplenote.com/
 - https://capacities.io/
+- https://www.napkin.one/
 - tana
 - https://br.wordpress.org/plugins/easy-table-of-contents/
 - contratar
