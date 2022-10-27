@@ -46,3 +46,6 @@ Type: foundation
 - https://www.adamenfroy.com/salesforce-review
 - https://www.youtube.com/watch?v=ODXV-fb_c-I
 - https://www.youtube.com/watch?v=XImly72tLw0
+
+### Palavras-chave
+- curso de notion
