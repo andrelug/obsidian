@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideias 2023.md",
+                "file": "Estrutura Andre Lug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideias 2023.md",
+                "file": "Estrutura Andre Lug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,11 +149,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2bf14110272087df",
+  "active": "097ccfa70bf31f4a",
   "lastOpenFiles": [
-    "Estrutura Andre Lug.md",
-    "⚙️Admin/_focus.md",
     "Ideias 2023.md",
+    "⚙️Admin/_focus.md",
+    "Estrutura Andre Lug.md",
     "2022-03-16 How to manage projects and more using Obsidian with Francisco Bricio.md",
     "⚙️Admin/My Internet Persona.md",
     "📝Diário/2022-10-20.md",
