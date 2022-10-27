@@ -46,6 +46,42 @@ Type: foundation
 - https://www.adamenfroy.com/salesforce-review
 - https://www.youtube.com/watch?v=ODXV-fb_c-I
 - https://www.youtube.com/watch?v=XImly72tLw0
+- https://www.soma-analytics.com/alpha-brain-review/
 
 ### Palavras-chave
 - curso de notion
+- a arte de fazer acontecer
+- bullet journal ideias
+- notion tradução
+	- notion em portugues
+- como ser mais produtivo
+- notion pro
+- notion o que é
+- prioridades na vida
+- bullet journal
+- revisar
+- frugal
+- planejamento semanal
+- prioridades
+- zettelkasten
+- o que fazer
+	- ideias para fazer...
+- rotina diária
+- o que e obsidian
+- typora
+- template notion
+- repetição espaçada
+- reflow
+- notion letra
+
+### Outreach
+- https://www.digitalhouse.com/br/blog/como-usar-o-notion/
+- https://www.estudarfora.org.br/notion/
+- https://blog.zemoleza.com.br/notion-app-estudo/
+- https://sousecretaria.com.br/como-usar-o-notion-guia-para-iniciantes/
+- https://www.euorganizado.com/blog/guia-basico-do-notion
+- https://produtive.me/ferramentas/passo-a-passo-como-usar-temas-no-notion/
+- https://www.maray.ai/posts/planner-notion
+- https://www.crehana.com/pt/blog/brasil/o-que-e-o-notion-o-aplicativo-de-produtividade-que-vai-organizar-sua-vida/
+- https://vivendosimples.com/notion-saiba-como-usar/
+- https://vidaorganizada.com/
