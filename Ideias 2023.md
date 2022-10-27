@@ -56,6 +56,7 @@ Type: foundation
 		- https://thomasjfrank.com/articles/
 		- https://saasaffiliate.com/
 		- https://www.euorganizado.com/
+		- https://www.security.org/
 		- https://www.adamenfroy.com/how-to-start-a-blog
 			- https://www.adamenfroy.com/best-high-paying-affiliate-programs
 			- https://www.adamenfroy.com/ai-video-editor
