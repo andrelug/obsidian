@@ -92,6 +92,8 @@ Type: foundation
 - https://capacities.io/
 - https://reflect.app/
 - https://www.raycast.com/
+- https://mailtrap.io/
+- https://sentry.io/
 - https://www.pluginthemebr.com/
 - https://www.napkin.one/
 - tana
