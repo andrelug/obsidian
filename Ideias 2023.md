@@ -96,6 +96,8 @@ Type: foundation
 - https://sentry.io/
 - https://www.pluginthemebr.com/
 - https://www.napkin.one/
+- https://surrealdb.com/
+- https://tailscale.com/
 - tana
 - https://br.wordpress.org/plugins/easy-table-of-contents/
 - contratar
@@ -106,3 +108,6 @@ Type: foundation
 	- compilações
 	- texto > https://invideo.io/
 	- https://vidiq.com/pt/
+- https://elest.io/fully-managed-services
+	- forma gerenciada de hospedagem
+	- ideias para conteúdos que linkam com a hospedagem da iglu

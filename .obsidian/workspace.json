@@ -34,6 +34,16 @@
             }
           },
           {
+            "id": "0735cc919b990d08",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          },
+          {
             "id": "097ccfa70bf31f4a",
             "type": "leaf",
             "state": {
@@ -47,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,13 +156,10 @@
     "direction": "horizontal",
     "width": 262.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "2bf14110272087df",
+  "active": "0735cc919b990d08",
   "lastOpenFiles": [
-    "Estrutura Andre Lug.md",
     "⚙️Admin/_focus.md",
+    "Estrutura Andre Lug.md",
     "Ideias 2023.md",
     "2022-03-16 How to manage projects and more using Obsidian with Francisco Bricio.md",
     "⚙️Admin/My Internet Persona.md",
