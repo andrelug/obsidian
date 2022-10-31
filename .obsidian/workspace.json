@@ -34,16 +34,6 @@
             }
           },
           {
-            "id": "0735cc919b990d08",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
-          },
-          {
             "id": "097ccfa70bf31f4a",
             "type": "leaf",
             "state": {
@@ -57,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +146,7 @@
     "direction": "horizontal",
     "width": 262.5
   },
-  "active": "0735cc919b990d08",
+  "active": "2bf14110272087df",
   "lastOpenFiles": [
     "⚙️Admin/_focus.md",
     "Estrutura Andre Lug.md",
