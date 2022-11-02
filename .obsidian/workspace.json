@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideias 2023.md",
+                "file": "2022-03-30 Atomic Habits.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jim kwik",
+                "query": "tag:#📚",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideias 2023.md",
+                "file": "2022-03-30 Atomic Habits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideias 2023.md",
+                "file": "2022-03-30 Atomic Habits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,15 +149,15 @@
   },
   "active": "2bf14110272087df",
   "lastOpenFiles": [
+    "2022-03-22 Big Magic.md",
+    "Ideias 2023.md",
     "⚙️Admin/_focus.md",
     "Estrutura Andre Lug.md",
-    "Ideias 2023.md",
     "2022-03-16 How to manage projects and more using Obsidian with Francisco Bricio.md",
     "⚙️Admin/My Internet Persona.md",
     "📝Diário/2022-10-20.md",
     "⚙️Admin/Who.md",
     "2022-04-11 I read 300 self-improvement books to learn these 3 lessons.md",
-    "2022-03-22 How I made 4,790,000 in 2021.md",
-    "2022-10-06 How Anne Moss manages 25 sites 200k montrhy revenue.md"
+    "2022-03-22 How I made 4,790,000 in 2021.md"
   ]
 }
