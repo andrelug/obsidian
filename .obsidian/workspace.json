@@ -145,19 +145,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
-  "active": "2bf14110272087df",
+  "active": "82e2fdffa0abbd22",
   "lastOpenFiles": [
-    "2022-03-22 Big Magic.md",
-    "Ideias 2023.md",
     "⚙️Admin/_focus.md",
+    "2022-03-24 Everybody Lies.md",
+    "2022-03-30 Atomic Habits.md",
     "Estrutura Andre Lug.md",
-    "2022-03-16 How to manage projects and more using Obsidian with Francisco Bricio.md",
-    "⚙️Admin/My Internet Persona.md",
-    "📝Diário/2022-10-20.md",
-    "⚙️Admin/Who.md",
-    "2022-04-11 I read 300 self-improvement books to learn these 3 lessons.md",
-    "2022-03-22 How I made 4,790,000 in 2021.md"
+    "2022-03-17 Linchpin.md",
+    "Untitled.md",
+    "⚙️Admin/Templates/Book.md",
+    "Self-confidence.md",
+    "2022-03-22 Big Magic.md",
+    "Ideias 2023.md"
   ]
 }
