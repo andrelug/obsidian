@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03-30 Atomic Habits.md",
+                "file": "⚙️Admin/_focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-03-30 Atomic Habits.md",
+                "file": "⚙️Admin/_focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
     "width": 262.5,
     "collapsed": true
   },
-  "active": "82e2fdffa0abbd22",
+  "active": "9c8ae31106f6a4ba",
   "lastOpenFiles": [
     "⚙️Admin/_focus.md",
     "2022-03-24 Everybody Lies.md",
