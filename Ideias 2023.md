@@ -99,6 +99,8 @@ Type: foundation
 - https://surrealdb.com/
 - https://tailscale.com/
 - tana
+- posthog
+- sentry
 - https://br.wordpress.org/plugins/easy-table-of-contents/
 - contratar
 	- ahref
