@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideias 2023.md",
+                "file": "📝Diário/2022-11-05.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideias 2023.md",
+                "file": "📝Diário/2022-11-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideias 2023.md",
+                "file": "📝Diário/2022-11-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,6 +169,7 @@
   },
   "active": "883bd5a62de38850",
   "lastOpenFiles": [
+    "Ideias 2023.md",
     "⚙️Admin/_focus.md",
     "Estrutura Andre Lug.md",
     "2022-03-24 Everybody Lies.md",
@@ -177,7 +178,6 @@
     "Untitled.md",
     "⚙️Admin/Templates/Book.md",
     "Self-confidence.md",
-    "2022-03-22 Big Magic.md",
-    "Ideias 2023.md"
+    "2022-03-22 Big Magic.md"
   ]
 }
