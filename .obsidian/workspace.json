@@ -21,12 +21,38 @@
             }
           },
           {
-            "id": "883bd5a62de38850",
+            "id": "aea05e2beae154a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝Diário/2022-11-05.md",
+                "file": "⚙️Admin/My Values - Exercises.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "372fe7ee080a5915",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⚙️Admin/Who.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba078f28d3d9f5ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022 Life Study.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝Diário/2022-11-05.md",
+                "file": "⚙️Admin/My Values - Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝Diário/2022-11-05.md",
+                "file": "⚙️Admin/My Values - Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,17 +193,17 @@
     "direction": "horizontal",
     "width": 262.5
   },
-  "active": "883bd5a62de38850",
+  "active": "aea05e2beae154a6",
   "lastOpenFiles": [
-    "Ideias 2023.md",
     "⚙️Admin/_focus.md",
+    "Principles.md",
+    "⚙️Admin/Who.md",
+    "2022 Life Study.md",
+    "📝Diário/2022-11-05.md",
+    "Ideias 2023.md",
     "Estrutura Andre Lug.md",
     "2022-03-24 Everybody Lies.md",
     "2022-03-30 Atomic Habits.md",
-    "2022-03-17 Linchpin.md",
-    "Untitled.md",
-    "⚙️Admin/Templates/Book.md",
-    "Self-confidence.md",
-    "2022-03-22 Big Magic.md"
+    "2022-03-17 Linchpin.md"
   ]
 }
