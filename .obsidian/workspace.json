@@ -8,84 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c8ae31106f6a4ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Family values.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aea05e2beae154a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚙️Admin/My Values - Exercises.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "372fe7ee080a5915",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚙️Admin/Who.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba078f28d3d9f5ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022 Life Study.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bf14110272087df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-03-30 Atomic Habits.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "097ccfa70bf31f4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrutura Andre Lug.md",
+                "file": "⚙️Admin/_focus.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a8182ec9d6aa28e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideias 2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Family values.md",
+                "file": "Ideias 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Family values.md",
+                "file": "Ideias 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,17 +141,17 @@
     "width": 262.5,
     "collapsed": true
   },
-  "active": "9183bd959b7f6dd5",
+  "active": "1a8182ec9d6aa28e",
   "lastOpenFiles": [
+    "⚙️Admin/_focus.md",
+    "Ideias 2023.md",
+    "Estrutura Andre Lug.md",
+    "Family values.md",
     "Father.md",
     "⚙️Admin/Who.md",
-    "⚙️Admin/_focus.md",
     "⚙️Admin/My Values - Exercises.md",
     "⚙️Admin/My Internet Persona.md",
     "My values.md",
-    "Family values.md",
-    "Husband.md",
-    "Principles.md",
-    "2022 Life Study.md"
+    "Husband.md"
   ]
 }

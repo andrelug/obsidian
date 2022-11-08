@@ -98,6 +98,8 @@ Type: foundation
 - https://www.napkin.one/
 - https://surrealdb.com/
 - https://tailscale.com/
+- https://freer.es/
+- zennoposter
 - tana
 - posthog
 - sentry
