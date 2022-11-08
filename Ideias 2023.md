@@ -100,6 +100,7 @@ Type: foundation
 - https://tailscale.com/
 - https://freer.es/
 - zennoposter
+- https://mysocialfollowing.com/
 - tana
 - posthog
 - sentry
