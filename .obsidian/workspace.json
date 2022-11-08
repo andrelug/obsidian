@@ -166,6 +166,14 @@
             }
           },
           {
+            "id": "a18d9e0f456045da",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
             "id": "0c642ea43543894c",
             "type": "leaf",
             "state": {
@@ -176,23 +184,15 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "a18d9e0f456045da",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
-  "active": "9c8ae31106f6a4ba",
+  "active": "9183bd959b7f6dd5",
   "lastOpenFiles": [
     "Father.md",
     "⚙️Admin/Who.md",
