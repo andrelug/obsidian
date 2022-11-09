@@ -27,6 +27,13 @@ Type: foundation
 - Redes sociais
 	- Tiktok
 		- 1x por dia
+		- AIDA (atenção, interesse, desejo, ação)
+		- Ideias
+			- quiz
+			- notícias
+			- dicas de produtividade
+			- pega vídeo de outros e comenta
+			- comentário de comentários
 	- Instagram
 		- reels - 1x por dia
 		- feed - 3x semana
