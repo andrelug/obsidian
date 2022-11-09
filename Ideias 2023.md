@@ -135,6 +135,8 @@ Type: foundation
 - posthog
 - sentry
 - https://br.wordpress.org/plugins/easy-table-of-contents/
+- ter um zoom, reddit talk, twitter space ou clubhouse para trabalho focado
+	- twitch pra isso?
 - contratar
 	- ahref
 	- surfer seo
