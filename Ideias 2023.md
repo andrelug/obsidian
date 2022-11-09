@@ -34,6 +34,19 @@ Type: foundation
 			- dicas de produtividade
 			- pega vídeo de outros e comenta
 			- comentário de comentários
+			- imagem de tweet (meu ou de outros) passando com música no fundo de 3s - loop
+			- como eu faço XXX de dinheiro
+			- pega produto afiliado
+				- divulga os vídoes com link de afiliado
+				- 3x por dia
+			- stories vira shorts
+			- hacks e dicas
+				- cursos
+				- livros
+				- etc (tudo que tenho obsidian)
+				- de computador
+				- produtividade 
+				- 
 	- Instagram
 		- reels - 1x por dia
 		- feed - 3x semana
