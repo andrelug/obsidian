@@ -119,6 +119,8 @@ Type: foundation
 - https://surrealdb.com/
 - https://tailscale.com/
 - https://freer.es/
+- https://github.com/MShawon/YouTube-Viewer#fast-vps-with-unlimited-traffic
+- https://ev.braip.com/
 - zennoposter
 - https://mysocialfollowing.com/
 - tana
