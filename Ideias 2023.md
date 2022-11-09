@@ -46,7 +46,15 @@ Type: foundation
 				- etc (tudo que tenho obsidian)
 				- de computador
 				- produtividade 
-				- 
+			- como fazer
+				- cut emptyness (pauses, erros, etc)
+				- subtitles
+				- muda o tom
+				- keep viewers guessing
+					- "tem 4 coisas, mas mesmo que você siga os três primeiros, precisa do quarto pra dar certo"
+					- "aqui vem um hack que vai mudar sua vida"
+					- "algo que mudou minha vida"
+					- 
 	- Instagram
 		- reels - 1x por dia
 		- feed - 3x semana
