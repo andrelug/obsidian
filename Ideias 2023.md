@@ -137,6 +137,9 @@ Type: foundation
 - https://br.wordpress.org/plugins/easy-table-of-contents/
 - ter um zoom, reddit talk, twitter space ou clubhouse para trabalho focado
 	- twitch pra isso?
+- https://registro.br/dominio/processo-de-liberacao/
+	- https://www.expireddomains.net/register/
+- https://ui.awin.com/awin/affiliate/1186420/merchant-profile/25163
 - contratar
 	- ahref
 	- surfer seo
