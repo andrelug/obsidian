@@ -141,6 +141,8 @@ Type: foundation
 	- https://www.expireddomains.net/register/
 - https://ui.awin.com/awin/affiliate/1186420/merchant-profile/25163
 - Midjourney engine v4
+- https://www.youtube.com/c/HenriqueTutoriais-CarlosHenrique/videos
+- https://www.shortform.com/summaries
 - directories
 	- https://gist.github.com/taskylizard/5ba73bf97dccf159316edcf4c6520856
 	- https://app.polymersearch.com/discover/github-awesome
