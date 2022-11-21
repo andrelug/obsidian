@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9f324666fae24271",
+        "id": "17674ea757aa04b6",
         "type": "tabs",
         "children": [
           {
-            "id": "584c77eac6119082",
+            "id": "b289fbb06a35f67f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#📚",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
               "type": "backlink",
               "state": {
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -113,18 +113,18 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
-  "active": "584c77eac6119082",
+  "active": "b289fbb06a35f67f",
   "lastOpenFiles": [
+    "📝Diário/2022-11-13.md",
     "Ideias 2023.md",
     "⚙️Admin/_focus.md",
-    "📝Diário/2022-11-13.md",
     "Estrutura Andre Lug.md",
     "Family values.md",
     "Father.md",
