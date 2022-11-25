@@ -11,8 +11,13 @@
             "id": "b289fbb06a35f67f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Planejamento Mudança 2022.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Planejamento Mudança 2022.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -108,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Planejamento Mudança 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,15 +129,15 @@
   },
   "active": "b289fbb06a35f67f",
   "lastOpenFiles": [
-    "📝Diário/2022-11-13.md",
+    "Untitled.md",
     "Ideias 2023.md",
-    "⚙️Admin/_focus.md",
-    "Estrutura Andre Lug.md",
-    "Family values.md",
-    "Father.md",
-    "⚙️Admin/Who.md",
-    "⚙️Admin/My Values - Exercises.md",
+    "Tailândia 2023.md",
+    "Planejamento Mudança 2022.md",
+    "2022 Life Study.md",
+    "2022 Travel Study.md",
     "⚙️Admin/My Internet Persona.md",
-    "My values.md"
+    "⚙️Admin/_focus.md",
+    "📝Diário/2022-11-13.md",
+    "Estrutura Andre Lug.md"
   ]
 }

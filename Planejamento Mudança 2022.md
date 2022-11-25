@@ -33,20 +33,21 @@
 
 
 ## Análise custos Floripa
-- Casa: R$ 4000
+- Casa: R$ 4500
 - Escolinha: R$ 1600 
 - Fixos: R$ 2800
 - Alimentação: R$ 3500
 - Transporte: R$ 600 + R$ 1200 (aeroporto)
-- Total: R$ 12900
-- Total (voltando em outubro): R$ 13700
+- Total: R$ 13400
+- Total (voltando em outubro): R$ 14100
 
 ## Análise custos Ásia (10 meses)
 - Casa: R$ 3100
 - Fixos: R$ 2400
+- Escolina: R$ 2300
 - Alimentação: R$ 2000
 - Transporte: R$ 4000
-- Total: R$ 11500
+- Total: R$ 13800
 - Passeio e extras: ?
 
 
