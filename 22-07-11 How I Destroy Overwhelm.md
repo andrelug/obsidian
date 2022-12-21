@@ -4,7 +4,7 @@ Type: video
 ---
 
 Tags: 
-Title: <% tp.file.title %>
+Title: 2022-03-22 The essential habit billionaires practice everyday
 URL: https://www.youtube.com/watch?v=jUNocCcVE_E
 Channel: [[@ August Bradley]]
 Reference: [[Overwhelming]], [[Productivity]]
