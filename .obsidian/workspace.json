@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "17674ea757aa04b6",
+        "id": "e78341b935bff167",
         "type": "tabs",
         "children": [
           {
-            "id": "b289fbb06a35f67f",
+            "id": "3275b2b607642834",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tailândia 2023.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1b2bb11b20bb102",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.8"
-              }
-            }
-          },
-          {
-            "id": "14d9af858630a4cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,17 +133,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "14d9af858630a4cd",
+  "active": "3275b2b607642834",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Tailândia 2023.md",
+    "conflict-files-obsidian-git.md",
     "Planejamento Mudança 2022.md",
     "Untitled.md",
     "Ideias 2023.md",
-    "Tailândia 2023.md",
     "2022 Life Study.md",
     "2022 Travel Study.md",
     "⚙️Admin/My Internet Persona.md",
-    "⚙️Admin/_focus.md",
-    "📝Diário/2022-11-13.md",
-    "Estrutura Andre Lug.md"
+    "⚙️Admin/_focus.md"
   ]
 }
