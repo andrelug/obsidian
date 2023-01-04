@@ -4,7 +4,7 @@ Type: video
 ---
 
 Tags: 
-Title: <% tp.file.title %>
+Title: Writing style
 URL: https://www.youtube.com/watch?v=VS64Qs4As6A
 Channel: [[@ Niche Pursuits]]
 Reference: [[Entrepreneur]], [[Ads]]

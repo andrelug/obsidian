@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "257bcbf71975aad1",
+    "type": "split",
+    "children": [
+      {
+        "id": "46647721a8fabefa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb398970b2f6961c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a968b69adbb08135",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b5fdf4bf431930a6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2081dbc1ca2f7468",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "997a468fb2063564",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8478200110550fe4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "252f887b215917a4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a30c5df9ba595805",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "bb398970b2f6961c",
+  "lastOpenFiles": [
+    "Test.md"
+  ]
+}
