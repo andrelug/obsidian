@@ -11,11 +11,27 @@
             "id": "0ee73bca027c1902",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Planejamento Mudança 2022.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "484009a0e3ccaefe",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Planejamento Mudança 2022.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -108,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Planejamento Mudança 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,17 +151,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0ee73bca027c1902",
+  "active": "484009a0e3ccaefe",
   "lastOpenFiles": [
+    "2022 Travel Study.md",
+    "2022 Life Study.md",
+    "Tailândia 2023.md",
     "📝Diário/2022-12-22.md",
     "Untitled.canvas",
-    "Tailândia 2023.md",
     "conflict-files-obsidian-git.md",
     "Planejamento Mudança 2022.md",
     "Untitled.md",
     "Ideias 2023.md",
-    "2022 Life Study.md",
-    "2022 Travel Study.md",
     "⚙️Admin/My Internet Persona.md"
   ]
 }
