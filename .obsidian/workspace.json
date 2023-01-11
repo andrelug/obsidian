@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "484009a0e3ccaefe",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +140,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "484009a0e3ccaefe",
+  "active": "0ee73bca027c1902",
   "lastOpenFiles": [
     "2022 Travel Study.md",
     "2022 Life Study.md",
