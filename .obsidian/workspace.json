@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "78e25532ae236661",
+        "id": "14ee2c3fa19f7521",
         "type": "tabs",
         "children": [
           {
-            "id": "e976f7cf5c736bac",
+            "id": "3b42baedd1a6aabc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -133,17 +133,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e976f7cf5c736bac",
+  "active": "3b42baedd1a6aabc",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "📝Diário/2023-02-09.md",
+    "conflict-files-obsidian-git.md",
     "Planejamento Mudança 2022.md",
     "Locus of Control.md",
-    "conflict-files-obsidian-git.md",
     "Tailândia 2023.md",
     "Writing style.md",
-    "Untitled.canvas",
     "Untitled.md",
     "Ideias 2023.md",
-    "2022 Life Study.md",
-    "2022 Travel Study.md"
+    "2022 Life Study.md"
   ]
 }
