@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝Diário/2023-02-13.md",
+                "file": "📝Diário/2023-02-23.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝Diário/2023-02-13.md",
+                "file": "📝Diário/2023-02-23.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝Diário/2023-02-13.md",
+                "file": "📝Diário/2023-02-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,6 +142,7 @@
   },
   "active": "3b42baedd1a6aabc",
   "lastOpenFiles": [
+    "📝Diário/2023-02-13.md",
     "Untitled.canvas",
     "📝Diário/2023-02-09.md",
     "conflict-files-obsidian-git.md",
@@ -150,7 +151,6 @@
     "Tailândia 2023.md",
     "Writing style.md",
     "Untitled.md",
-    "Ideias 2023.md",
-    "2022 Life Study.md"
+    "Ideias 2023.md"
   ]
 }
