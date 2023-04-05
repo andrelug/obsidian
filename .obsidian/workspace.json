@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "14ee2c3fa19f7521",
+        "id": "eb51cd032666a2a8",
         "type": "tabs",
         "children": [
           {
-            "id": "3b42baedd1a6aabc",
+            "id": "3b874c9146eb9506",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝Diário/2023-02-23.md",
+                "file": "Ideias 2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝Diário/2023-02-23.md",
+                "file": "Ideias 2023.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝Diário/2023-02-23.md",
+                "file": "Ideias 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,13 +140,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b42baedd1a6aabc",
+  "active": "3b874c9146eb9506",
   "lastOpenFiles": [
+    "⚙️Admin/_focus.md",
+    "Inbox/Conteúdos.md",
+    "Planejamento Mudança 2022.md",
+    "📝Diário/2023-02-23.md",
     "📝Diário/2023-02-13.md",
     "Untitled.canvas",
     "📝Diário/2023-02-09.md",
     "conflict-files-obsidian-git.md",
-    "Planejamento Mudança 2022.md",
     "Locus of Control.md",
     "Tailândia 2023.md",
     "Writing style.md",

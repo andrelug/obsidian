@@ -129,11 +129,14 @@ Type: foundation
 - https://freer.es/
 - https://github.com/MShawon/YouTube-Viewer#fast-vps-with-unlimited-traffic
 - https://ev.braip.com/
+- https://mercadoonlinedigital.com/produto/wordpress-automatic-plugin/
 - zennoposter
 - https://mysocialfollowing.com/
 - tana
 - posthog
 - sentry
+- https://rankpress.io/
+- https://www.cyberseo.net/
 - https://br.wordpress.org/plugins/easy-table-of-contents/
 - ter um zoom, reddit talk, twitter space ou clubhouse para trabalho focado
 	- twitch pra isso?
