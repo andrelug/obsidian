@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "875e0dd68aaf7ac7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +140,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "875e0dd68aaf7ac7",
+  "active": "3b874c9146eb9506",
   "lastOpenFiles": [
     "⚙️Admin/_focus.md",
     "Inbox/Conteúdos.md",
