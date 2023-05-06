@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f97cc40dfb14f403",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,6 +67,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "56e94580869852d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -140,7 +159,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b874c9146eb9506",
+  "active": "f97cc40dfb14f403",
   "lastOpenFiles": [
     "⚙️Admin/_focus.md",
     "Inbox/Conteúdos.md",
