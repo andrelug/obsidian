@@ -19,8 +19,61 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "72fadbcd1ba529dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pontos Fortes e Pontos a Melhorar.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bf97399acd5d853",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudo Autoconhecimento - Thaís Godinho.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a739219560103b3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grandes Sonhos.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c354faac6d12bfa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que significa a vida.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideias 2023.md",
+                "file": "Grandes Sonhos.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideias 2023.md",
+                "file": "Grandes Sonhos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,8 +201,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b874c9146eb9506",
+  "active": "a739219560103b3b",
   "lastOpenFiles": [
+    "Estudo Autoconhecimento - Thaís Godinho.md",
+    "Grandes Sonhos.md",
+    "O que significa a vida.md",
+    "Pontos Fortes e Pontos a Melhorar.md",
     "Ideias 2023.md",
     "⚙️Admin/_focus.md",
     "Inbox/Conteúdos.md",
@@ -161,7 +218,6 @@
     "conflict-files-obsidian-git.md",
     "Locus of Control.md",
     "Tailândia 2023.md",
-    "Writing style.md",
-    "Untitled.md"
+    "Writing style.md"
   ]
 }
