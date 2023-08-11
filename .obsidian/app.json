@@ -7,8 +7,6 @@
   "attachmentFolderPath": "⚙️Admin/Anexos",
   "foldHeading": true,
   "foldIndent": true,
-  "spellcheckLanguages": [
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "fileSortOrder": "byModifiedTime"
 }
