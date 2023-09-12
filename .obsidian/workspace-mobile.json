@@ -59,6 +59,14 @@
             "useHierarchy": true
           }
         }
+      },
+      {
+        "id": "cab174a3075df032",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -97,8 +105,56 @@
     ],
     "currentTab": 0
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
   "active": "bb398970b2f6961c",
   "lastOpenFiles": [
-    "Test.md"
+    "📝Diário/Weekly/2022-03 Week 3.md",
+    "2022 Travel Study.md",
+    "Story Pacing.md",
+    "⚙️Admin/Templates/Video.md",
+    "MOCs/Nosso Amigo.md",
+    "📝Diário/2022-03-26.md",
+    "⚙️Admin/What.md",
+    "Sunk-cost bias.md",
+    "⚙️Admin/_focus.md",
+    "Super-Credibility.md",
+    "Mapa Nagouwn.md",
+    "📝Diário/2022-12-22.md",
+    "⚙️Admin/Templates/Social Media Post.md",
+    "RTK.md",
+    "Athlete.md",
+    "Husband.md",
+    "📝Diário/2022-03-17.md",
+    "My values.md",
+    "📝Diário/2022-03-25.md",
+    "📝Diário/Weekly/2022-03 Week 4.md",
+    "Four Vurtues or Stoicism.md",
+    "⚙️Admin/Templates/Article.md",
+    "Writer.md",
+    "2022-10-06 How Anne Moss manages 25 sites 200k montrhy revenue.md",
+    "Locus of Control.md",
+    "⚙️Admin/Whom.md",
+    "⚙️Admin/Anexos/1-margin-v2.png",
+    "⚙️Admin/Anexos/6-Bayes.png",
+    "⚙️Admin/Anexos/3-signaling.png",
+    "⚙️Admin/Anexos/10-nash.png",
+    "⚙️Admin/Anexos/2-selection.png",
+    "⚙️Admin/Anexos/9-incentives-v3.png",
+    "⚙️Admin/Anexos/8-feedback-v2.png",
+    "⚙️Admin/Anexos/5-exponential.png",
+    "⚙️Admin/Anexos/4-potential.png",
+    "⚙️Admin/Anexos/7-common.png"
   ]
 }
