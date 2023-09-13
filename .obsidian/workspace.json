@@ -11,22 +11,16 @@
             "id": "c329adf1c438df36",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6cb793a15e2456fa",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.12"
+                "file": "2022-10-06 How Anne Moss manages 25 sites 200k montrhy revenue.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"Type\"]",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022-10-06 How Anne Moss manages 25 sites 200k montrhy revenue.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2022-10-06 How Anne Moss manages 25 sites 200k montrhy revenue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -162,8 +158,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6cb793a15e2456fa",
+  "active": "c329adf1c438df36",
   "lastOpenFiles": [
+    "Athlete.md",
+    "Super-Credibility.md",
+    "Sunk-cost bias.md",
+    "Story Pacing.md",
     "Emotions.md",
     "Acceptance.md",
     "📝Diário/2023-09-13.md",
