@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "14349061653430f7",
+        "id": "121cf1f898a3224d",
         "type": "tabs",
         "children": [
           {
-            "id": "f81afb2aea29f5b2",
+            "id": "c329adf1c438df36",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#📚",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,8 +141,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f81afb2aea29f5b2",
+  "active": "c329adf1c438df36",
   "lastOpenFiles": [
+    "Emotions.md",
+    "Acceptance.md",
+    "📝Diário/2023-09-13.md",
+    "Mind Noise.md",
     "⚙️Admin/My Values - Exercises.md",
     "Pontos Fortes e Pontos a Melhorar.md",
     "Estudo Autoconhecimento - Thaís Godinho.md",
