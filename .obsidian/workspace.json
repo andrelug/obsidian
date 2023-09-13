@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "6cb793a15e2456fa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,6 +131,16 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "0f8eb6cbfaf43175",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -141,7 +162,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c329adf1c438df36",
+  "active": "6cb793a15e2456fa",
   "lastOpenFiles": [
     "Emotions.md",
     "Acceptance.md",

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "46647721a8fabefa",
+        "id": "0b7049c240f58aad",
         "type": "tabs",
         "children": [
           {
-            "id": "bb398970b2f6961c",
+            "id": "4a5f9cd04331ef80",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -114,12 +114,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb398970b2f6961c",
+  "active": "4a5f9cd04331ef80",
   "lastOpenFiles": [
+    "📝Diário/2023-09-13.md",
+    "Mind Noise.md",
+    "Emotions.md",
+    "Acceptance.md",
     "📝Diário/Weekly/2022-03 Week 3.md",
     "2022 Travel Study.md",
     "Story Pacing.md",
@@ -142,10 +146,6 @@
     "📝Diário/Weekly/2022-03 Week 4.md",
     "Four Vurtues or Stoicism.md",
     "⚙️Admin/Templates/Article.md",
-    "Writer.md",
-    "2022-10-06 How Anne Moss manages 25 sites 200k montrhy revenue.md",
-    "Locus of Control.md",
-    "⚙️Admin/Whom.md",
     "⚙️Admin/Anexos/1-margin-v2.png",
     "⚙️Admin/Anexos/6-Bayes.png",
     "⚙️Admin/Anexos/3-signaling.png",
