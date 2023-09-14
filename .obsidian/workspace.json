@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "121cf1f898a3224d",
+        "id": "8bf7d31a2d4c3767",
         "type": "tabs",
         "children": [
           {
-            "id": "c329adf1c438df36",
+            "id": "e2e1240accdfe11e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-10-06 How Anne Moss manages 25 sites 200k montrhy revenue.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"Type\"]",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10-06 How Anne Moss manages 25 sites 200k montrhy revenue.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-10-06 How Anne Moss manages 25 sites 200k montrhy revenue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,32 +151,42 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c329adf1c438df36",
+  "active": "e2e1240accdfe11e",
   "lastOpenFiles": [
-    "Athlete.md",
-    "Super-Credibility.md",
-    "Sunk-cost bias.md",
-    "Story Pacing.md",
-    "Emotions.md",
-    "Acceptance.md",
-    "📝Diário/2023-09-13.md",
-    "Mind Noise.md",
-    "⚙️Admin/My Values - Exercises.md",
-    "Pontos Fortes e Pontos a Melhorar.md",
-    "Estudo Autoconhecimento - Thaís Godinho.md",
-    "Grandes Sonhos.md",
-    "O que significa a vida.md",
-    "Ideias 2023.md",
-    "⚙️Admin/_focus.md",
+    "📝Diário/2023-09-14.md",
+    "⚙️Admin/Templates/Diário.md",
+    "Contents/2022-03-16 Discover the 6 human needs.md",
     "Inbox/Conteúdos.md",
-    "Planejamento Mudança 2022.md",
-    "📝Diário/2023-02-23.md",
-    "📝Diário/2023-02-13.md",
-    "Untitled.canvas",
-    "📝Diário/2023-02-09.md",
-    "conflict-files-obsidian-git.md",
-    "Locus of Control.md",
-    "Tailândia 2023.md",
-    "Writing style.md"
+    "Topics/Brandon Sanderson on Writing Science Fiction and Fantasy.md",
+    "Contents/2022-03-17 Linchpin.md",
+    "Topics/Copywriting.md",
+    "Contents/2022-03-21 How to be the type of person everyone wats to know.md",
+    "Topics/3 Act Story.md",
+    "Contents/2021-03-24  - Instagram.md",
+    "Topics/4 Act 'W' Structure Story.md",
+    "Contents/2022-03-16 How to manage projects and more using Obsidian with Francisco Bricio.md",
+    "Topics/Dopamine.md",
+    "Contents/2022-03-22 How I made 4,790,000 in 2021.md",
+    "⚙️Admin/Pessoal/O que significa a vida.md",
+    "Topics/Analysis paralysis.md",
+    "Contents/2022-03-22 BREAKING NEWS...The truth in 5 minutes, Seth Godin, David Bayer, Brendon Burchard.md",
+    "Topics/World Building Design references.md",
+    "⚙️Admin/Pessoal/Pontos Fortes e Pontos a Melhorar.md",
+    "Topics/Nootropics.md",
+    "⚙️Admin/Pessoal/Estudo Autoconhecimento - Thaís Godinho.md",
+    "Topics/Business Partner.md",
+    "Topics/Mapa Nagouwn.md",
+    "Topics/Super-Credibility.md",
+    "⚙️Admin/Pessoal/Writer.md",
+    "Topics",
+    "Contents",
+    "⚙️Admin/Pessoal/Family values.md",
+    "⚙️Admin/Pessoal",
+    "⚙️Admin/Anexos/5-exponential.png",
+    "⚙️Admin/Anexos/7-common.png",
+    "⚙️Admin/Anexos/6-Bayes.png",
+    "⚙️Admin/Anexos/8-feedback-v2.png",
+    "⚙️Admin/Anexos/9-incentives-v3.png",
+    "Untitled.canvas"
   ]
 }

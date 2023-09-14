@@ -7,16 +7,15 @@ Tags:
 
 ---
 
-#### Gratidão do dia
-==Gratidão==
+#### Ontem Antes de Dormir eu:
 
-#### Pensamentos
+#### Algo que estou grato ou empolgado hoje:
 - 
 
-#### Dificuldades
+#### Uma coisa que planejo concluir hoje:
 - 
 
-#### Aprendizados
+#### Aprendizados e Desafios
 - 
 
 #### Notas do dia

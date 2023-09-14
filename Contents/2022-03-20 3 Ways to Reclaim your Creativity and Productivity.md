@@ -1,8 +1,10 @@
 ---
-Tags: 📥 🎥 🟢
+tags:
+  - 📥
+  - 🎥
+  - 🟢
 Type: video
 ---
-
 Tags: [[Productivity]], [[Creativity]], [[Futurism]], [[Design]]
 Title: 2022-03-20 3 Ways to Reclaim your Creativity and Productivity
 URL: https://www.youtube.com/watch?v=ybaom7OVtIw
