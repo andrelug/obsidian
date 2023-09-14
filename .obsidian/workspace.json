@@ -4,18 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "8bf7d31a2d4c3767",
+        "id": "3e4f944f84cb3226",
         "type": "tabs",
         "children": [
           {
-            "id": "e2e1240accdfe11e",
+            "id": "c7e111eca5699bff",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "80c3c365d99e054e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⚙️Admin/Templates/Concept.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "⚙️Admin/Templates/Concept.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "⚙️Admin/Templates/Concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -151,36 +167,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e2e1240accdfe11e",
+  "active": "80c3c365d99e054e",
   "lastOpenFiles": [
-    "📝Diário/2023-09-14.md",
-    "⚙️Admin/Templates/Diário.md",
-    "Contents/2022-03-16 Discover the 6 human needs.md",
-    "Inbox/Conteúdos.md",
-    "Topics/Brandon Sanderson on Writing Science Fiction and Fantasy.md",
-    "Contents/2022-03-17 Linchpin.md",
-    "Topics/Copywriting.md",
-    "Contents/2022-03-21 How to be the type of person everyone wats to know.md",
-    "Topics/3 Act Story.md",
-    "Contents/2021-03-24  - Instagram.md",
-    "Topics/4 Act 'W' Structure Story.md",
+    "Memento Mori.md",
+    "⚙️Admin/Templates/Concept.md",
+    "Contents/2022-03-22 How To Take Smart Notes.md",
+    "2023-09-14 8 Stoic Habits That Will Improve Your Life.md",
+    "Contents/2022-04-04 How overstimulation is ruining your life.md",
     "Contents/2022-03-16 How to manage projects and more using Obsidian with Francisco Bricio.md",
-    "Topics/Dopamine.md",
-    "Contents/2022-03-22 How I made 4,790,000 in 2021.md",
-    "⚙️Admin/Pessoal/O que significa a vida.md",
-    "Topics/Analysis paralysis.md",
     "Contents/2022-03-22 BREAKING NEWS...The truth in 5 minutes, Seth Godin, David Bayer, Brendon Burchard.md",
-    "Topics/World Building Design references.md",
-    "⚙️Admin/Pessoal/Pontos Fortes e Pontos a Melhorar.md",
-    "Topics/Nootropics.md",
-    "⚙️Admin/Pessoal/Estudo Autoconhecimento - Thaís Godinho.md",
-    "Topics/Business Partner.md",
-    "Topics/Mapa Nagouwn.md",
-    "Topics/Super-Credibility.md",
+    "📝Diário/2023-09-14.md",
+    "⚙️Admin/Pessoal/_focus.md",
+    "⚙️Admin/Pessoal/Ideias 2023.md",
+    "⚙️Admin/Pessoal/My Values - Exercises.md",
+    "⚙️Admin/Pessoal/2022 Travel Study.md",
+    "⚙️Admin/Pessoal/2022 Life Study.md",
+    "⚙️Admin/Pessoal/Principles.md",
+    "⚙️Admin/Pessoal/Where.md",
+    "⚙️Admin/Pessoal/What.md",
+    "⚙️Admin/Pessoal/Whom.md",
+    "@Iglu Online.md",
+    "⚙️Admin/Pessoal/When.md",
+    "Why.md",
+    "⚙️Admin/Pessoal/Want.md",
+    "Routines.md",
+    "⚙️Admin/Pessoal/Who.md",
     "⚙️Admin/Pessoal/Writer.md",
+    "⚙️Admin/Pessoal/Influencer.md",
+    "⚙️Admin/Pessoal/Athlete.md",
     "Topics",
     "Contents",
-    "⚙️Admin/Pessoal/Family values.md",
     "⚙️Admin/Pessoal",
     "⚙️Admin/Anexos/5-exponential.png",
     "⚙️Admin/Anexos/7-common.png",

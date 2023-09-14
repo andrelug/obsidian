@@ -2,7 +2,6 @@
 Tags: 🐧/🌱
 Type: foundation
 ---
-
 # Focus
 ---
 
@@ -17,7 +16,7 @@ This is a framework to better understand where should I go, which projects to ta
 7. [[Where]] will I do this; which tools I use?
 
 
-All that must be aligned and connected to the my [[Principles]].
+All that must be aligned and connected to the [[My values]].
 
 
 ## Reflexões
@@ -30,4 +29,3 @@ All that must be aligned and connected to the my [[Principles]].
 - [[My Internet Persona]]
 - [[Ideias 2023]]
 - [[Estrutura Andre Lug]]
-- 

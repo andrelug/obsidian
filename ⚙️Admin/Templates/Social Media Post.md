@@ -1,7 +1,8 @@
 ---
-Tags: 📥 🗣️ 🟡
+tags:
+  - 📥
+  - 🗣️
+  - 🟡
 Type: socialmedia
+URL:
 ---
-
-Tags:
-Publish date: 

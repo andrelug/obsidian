@@ -1,10 +1,10 @@
 ---
-Tags: 📥 📰 🔴
+tags:
+  - 📥
+  - 📰
+  - 🔴
 Type: article
----
-
-Tags: 
-Title: <% tp.file.title %>
 URL: 
 Website: 
-Reference: 
+Reference:
+---

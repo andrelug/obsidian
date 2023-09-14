@@ -1,0 +1,21 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Sleep": "number",
+    "Meditation": "checkbox",
+    "Wim Hof": "checkbox",
+    "Exercise": "checkbox",
+    "Finished": "checkbox",
+    "Ending Date": "date",
+    "Suplements": "checkbox",
+    "Stretch": "checkbox",
+    "Cold Shower": "checkbox",
+    "Sunning": "checkbox",
+    "Palming": "checkbox",
+    "Fasting": "number",
+    "NoFap": "checkbox",
+    "Drops": "number"
+  }
+}

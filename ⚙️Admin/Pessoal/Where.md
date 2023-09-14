@@ -10,4 +10,4 @@ What are the places, resources and softwares I'll be using to achieve what I wan
 
 - Notion
 - Obsidian
-- Drop
+- Todoist

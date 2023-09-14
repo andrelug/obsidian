@@ -1,4 +1,6 @@
 ---
-Tags: 🧵/🌱
+tags:
+  - 🧵/🌱
 Type: concept
+Reference:
 ---

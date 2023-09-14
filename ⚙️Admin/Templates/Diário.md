@@ -1,12 +1,16 @@
 ---
-Tags: 📝
+tags:
+  - 📝
 Type: diary
+Sleep: 
+Meditation: 
+Exercise: 
+Wim Hof:
 ---
 
 Tags:  
 
 ---
-
 #### Ontem Antes de Dormir eu:
 
 #### Algo que estou grato ou empolgado hoje:

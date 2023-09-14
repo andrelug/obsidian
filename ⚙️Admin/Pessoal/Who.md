@@ -19,4 +19,3 @@ Different roles I have:
 [[Entrepreneur]]
 [[Athlete]]
 [[Influencer]]
-[[Writer]]

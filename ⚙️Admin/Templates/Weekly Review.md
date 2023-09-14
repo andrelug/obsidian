@@ -2,11 +2,6 @@
 Tags: 📝
 Type: diary
 ---
-
-Tags:  
-
----
-
 #### Pensamentos
 - 
 
