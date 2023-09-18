@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3e4f944f84cb3226",
+        "id": "049b0e719474b89b",
         "type": "tabs",
         "children": [
           {
-            "id": "c7e111eca5699bff",
+            "id": "917558f5451febc8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,15 +16,12 @@
             }
           },
           {
-            "id": "80c3c365d99e054e",
+            "id": "3fdff0286dc6be55",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "⚙️Admin/Templates/Concept.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "currentVersion": "1.4.13"
               }
             }
           }
@@ -95,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚙️Admin/Templates/Concept.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⚙️Admin/Templates/Concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,10 +162,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "80c3c365d99e054e",
+  "active": "3fdff0286dc6be55",
   "lastOpenFiles": [
-    "Memento Mori.md",
     "⚙️Admin/Templates/Concept.md",
+    "Memento Mori.md",
     "Contents/2022-03-22 How To Take Smart Notes.md",
     "2023-09-14 8 Stoic Habits That Will Improve Your Life.md",
     "Contents/2022-04-04 How overstimulation is ruining your life.md",
