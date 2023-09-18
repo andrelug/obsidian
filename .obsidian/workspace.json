@@ -11,22 +11,29 @@
             "id": "917558f5451febc8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "⚙️Admin/Pessoal/2023 Life Study.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
-            "id": "3fdff0286dc6be55",
+            "id": "2b2d29ab98fb08d2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "⚙️Admin/Pessoal/2022 Life Study.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "⚙️Admin/Pessoal/2023 Life Study.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "⚙️Admin/Pessoal/2023 Life Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,8 +171,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3fdff0286dc6be55",
+  "active": "917558f5451febc8",
   "lastOpenFiles": [
+    "⚙️Admin/Pessoal/2022 Life Study.md",
+    "⚙️Admin/Pessoal/2023 Life Study.md",
     "⚙️Admin/Templates/Concept.md",
     "Memento Mori.md",
     "Contents/2022-03-22 How To Take Smart Notes.md",
@@ -176,7 +187,6 @@
     "⚙️Admin/Pessoal/Ideias 2023.md",
     "⚙️Admin/Pessoal/My Values - Exercises.md",
     "⚙️Admin/Pessoal/2022 Travel Study.md",
-    "⚙️Admin/Pessoal/2022 Life Study.md",
     "⚙️Admin/Pessoal/Principles.md",
     "⚙️Admin/Pessoal/Where.md",
     "⚙️Admin/Pessoal/What.md",
@@ -189,7 +199,6 @@
     "⚙️Admin/Pessoal/Who.md",
     "⚙️Admin/Pessoal/Writer.md",
     "⚙️Admin/Pessoal/Influencer.md",
-    "⚙️Admin/Pessoal/Athlete.md",
     "Topics",
     "Contents",
     "⚙️Admin/Pessoal",
