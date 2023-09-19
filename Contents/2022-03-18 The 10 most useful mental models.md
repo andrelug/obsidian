@@ -83,7 +83,7 @@ Common knowledge are the things everybody knows. But not just that, they’re th
 
 The best illustration of common knowledge is in The Emperor’s New Clothes. The emperor is naked and everybody knows he’s naked. But because it’s not common knowledge that he’s naked, so everybody plays along and acts like he’s dressed fabulously. It takes an innocent child to speak aloud what was already in everybody’s minds.
 
-Common knowledge matters because it can create stable points around arbitrary decisions. Money, for instance, is valuable because everybody agrees it has value. If the value of money weren’t common knowledge, it wouldn’t work as [[money]].
+Common knowledge matters because it can create stable points around arbitrary decisions. Money, for instance, is valuable because everybody agrees it has value. If the value of money weren’t common knowledge, it wouldn’t work as [[Money]].
 
 ## 8 Feedback
 

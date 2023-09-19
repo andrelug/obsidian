@@ -34,9 +34,9 @@ As categorias são links entre páginas. Quando há um número grande de referê
 Aí depois basta ela se desenvolver para depois virar um mapa de conteúdo #🗺️ 
 
 
-| Livros | Pessoas/Empresas/Canais | Social Media | Podcasts | Vídeos | Artigos | Pensamentos  |
-| ------ | ------- | ------ | -------- | ------ | ------- | ----------- |
-|{|@|!|%|+|(|=|
+| Livros | Pessoas/Canais | Social Media | Podcasts | Vídeos | Artigos | Pensamentos  | Cursos |
+| ------ | ------- | ------ | -------- | ------ | ------- | ----------- | ------ |
+|{|@|!|%|+|(|=|$|
 
 
 ## Map of Content

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "917558f5451febc8",
+            "id": "2b2d29ab98fb08d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝Diário/2023-09-18.md",
+                "file": "⚙️Admin/Taxonomia.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,19 +21,20 @@
             }
           },
           {
-            "id": "2b2d29ab98fb08d2",
+            "id": "3c213e8e305a05bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚙️Admin/Pessoal/2022 Life Study.md",
+                "file": "$ Venda Todo Santo Dia.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝Diário/2023-09-18.md",
+                "file": "$ Venda Todo Santo Dia.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝Diário/2023-09-18.md",
+                "file": "$ Venda Todo Santo Dia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,34 +172,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "917558f5451febc8",
+  "active": "3c213e8e305a05bb",
   "lastOpenFiles": [
-    "⚙️Admin/Pessoal/2023 Life Study.md",
+    "📝Diário/2023-09-19.md",
+    "Entrepreneur]], [[Ads.md",
+    "Contents/2022-10-06 How Anne Moss manages 25 sites 200k montrhy revenue.md",
+    "$ Venda Todo Santo Dia.md",
+    "⚙️Admin/Taxonomia.md",
+    "Topics/Money.md",
+    "Routines.md",
+    "Contents/2023-09-14 8 Stoic Habits That Will Improve Your Life.md",
+    "⚙️Admin/Pessoal/_focus.md",
+    "⚙️Admin/Pessoal/2022 Travel Study.md",
     "📝Diário/2023-09-18.md",
     "⚙️Admin/Pessoal/2022 Life Study.md",
+    "⚙️Admin/Pessoal/2023 Life Study.md",
     "⚙️Admin/Templates/Concept.md",
-    "Memento Mori.md",
+    "Topics/Memento Mori.md",
     "Contents/2022-03-22 How To Take Smart Notes.md",
-    "2023-09-14 8 Stoic Habits That Will Improve Your Life.md",
     "Contents/2022-04-04 How overstimulation is ruining your life.md",
     "Contents/2022-03-16 How to manage projects and more using Obsidian with Francisco Bricio.md",
     "Contents/2022-03-22 BREAKING NEWS...The truth in 5 minutes, Seth Godin, David Bayer, Brendon Burchard.md",
     "📝Diário/2023-09-14.md",
-    "⚙️Admin/Pessoal/_focus.md",
     "⚙️Admin/Pessoal/Ideias 2023.md",
     "⚙️Admin/Pessoal/My Values - Exercises.md",
-    "⚙️Admin/Pessoal/2022 Travel Study.md",
     "⚙️Admin/Pessoal/Principles.md",
     "⚙️Admin/Pessoal/Where.md",
     "⚙️Admin/Pessoal/What.md",
     "⚙️Admin/Pessoal/Whom.md",
-    "@Iglu Online.md",
-    "⚙️Admin/Pessoal/When.md",
-    "Why.md",
-    "⚙️Admin/Pessoal/Want.md",
-    "Routines.md",
-    "⚙️Admin/Pessoal/Who.md",
-    "⚙️Admin/Pessoal/Writer.md",
     "Topics",
     "Contents",
     "⚙️Admin/Pessoal",

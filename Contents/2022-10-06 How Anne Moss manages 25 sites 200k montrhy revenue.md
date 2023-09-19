@@ -6,7 +6,7 @@ tags:
 Type: video
 URL: https://www.youtube.com/watch?v=VS64Qs4As6A
 Channel: "[[@ Niche Pursuits]]"
-Reference: "[[Entrepreneur]], [[Ads]]"
+Reference: "[[Entrepreneur]]"
 ---
 
 
