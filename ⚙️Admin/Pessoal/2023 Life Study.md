@@ -54,3 +54,48 @@
 	- Finish Diary
 	- NoFap
 	- Bed by 9pm - no phone
+
+
+##### Content
+
+- YouTube
+	- Long
+		- 1x semana
+		- Guias, tutoriais, vlog?
+	- Short
+		- Enterteinment
+- Instagram
+	- Live
+		- 1x semana
+	- Stories
+		- Todo dia
+		- Lifestyle
+		- Caixinha
+	- Feed
+		- 2x semana
+		- Informativo
+		- Memes
+	- Reels
+		- Todo dia
+		- RVL
+			- R - Results - conversational - take to inbox
+			- V - Value - educational
+			- L - Lifestyle - inspirational
+- Tiktok
+	- Live
+		- 1x semana
+	- Feed
+		- Todo dia
+		- CTA venda
+- Blogs
+	- Delegado
+
+
+Topics
+- AI
+- Tecch
+- Tools
+- Nomad
+- SEO
+- Books & Reflectinos
+- Otaku?
