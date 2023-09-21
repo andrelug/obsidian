@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b2d29ab98fb08d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📝Diário/2023-09-20.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3c213e8e305a05bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "$ Venda Todo Santo Dia.md",
+                "file": "📝Diário/2023-09-21.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,30 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d5b952fb948b9cfa",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "5989cc25ff56ae2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-09-20 Você Precisa de 6 Alarmes para Mudar de Vida.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-09-20 Você Precisa de 6 Alarmes para Mudar de Vida.md",
+                "file": "⚙️Admin/Pessoal/2023 Life Study.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-09-20 Você Precisa de 6 Alarmes para Mudar de Vida.md",
+                "file": "⚙️Admin/Pessoal/2023 Life Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,12 +172,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5989cc25ff56ae2d",
+  "active": "ec1794e789a83587",
   "lastOpenFiles": [
-    "2023-09-20 Você Precisa de 6 Alarmes para Mudar de Vida.md",
-    "⚙️Admin/Pessoal/2023 Life Study.md",
-    "$ Venda Todo Santo Dia.md",
+    "📝Diário/2023-09-21.md",
     "📝Diário/2023-09-20.md",
+    "$ Venda Todo Santo Dia.md",
+    "⚙️Admin/Pessoal/2023 Life Study.md",
+    "2023-09-20 Você Precisa de 6 Alarmes para Mudar de Vida.md",
     "⚙️Admin/Taxonomia.md",
     "📝Diário/2023-09-19.md",
     "Entrepreneur]], [[Ads.md",
@@ -233,7 +200,6 @@
     "⚙️Admin/Pessoal/Ideias 2023.md",
     "⚙️Admin/Pessoal/My Values - Exercises.md",
     "⚙️Admin/Pessoal/Principles.md",
-    "⚙️Admin/Pessoal/Where.md",
     "Topics",
     "Contents",
     "⚙️Admin/Pessoal",
