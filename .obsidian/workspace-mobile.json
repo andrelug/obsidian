@@ -11,8 +11,13 @@
             "id": "4a5f9cd04331ef80",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "📝Diário/2023-09-21.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "📝Diário/2023-09-21.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "📝Diário/2023-09-21.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -120,6 +127,20 @@
   },
   "active": "4a5f9cd04331ef80",
   "lastOpenFiles": [
+    "⚙️Admin/Pessoal/Why.md",
+    "⚙️Admin/Pessoal/House chores.md",
+    "Topics/Memento Mori.md",
+    "Topics/Money.md",
+    "Routines.md",
+    "📝Diário/2023-09-18.md",
+    "📝Diário/2023-09-21.md",
+    "⚙️Admin/Pessoal/2023 Life Study.md",
+    "📝Diário/2023-09-20.md",
+    "2023-09-20 Você Precisa de 6 Alarmes para Mudar de Vida.md",
+    "📝Diário/2023-09-19.md",
+    "$ Venda Todo Santo Dia.md",
+    "@Iglu Online.md",
+    "Contents/2023-09-14 8 Stoic Habits That Will Improve Your Life.md",
     "📝Diário/2023-09-14.md",
     "⚙️Admin/Pessoal/Pontos Fortes e Pontos a Melhorar.md",
     "⚙️Admin/Pessoal/Writer.md",
@@ -132,20 +153,6 @@
     "⚙️Admin/Pessoal/What.md",
     "⚙️Admin/Pessoal/Son.md",
     "⚙️Admin/Pessoal/Husband.md",
-    "⚙️Admin/Pessoal/Where.md",
-    "⚙️Admin/Pessoal/Father.md",
-    "⚙️Admin/Pessoal/When.md",
-    "⚙️Admin/Pessoal/Influencer.md",
-    "⚙️Admin/Pessoal/Estudo Autoconhecimento - Thaís Godinho.md",
-    "⚙️Admin/Pessoal/Tailândia 2023.md",
-    "⚙️Admin/Pessoal/My Internet Persona.md",
-    "⚙️Admin/Pessoal/My values.md",
-    "⚙️Admin/Pessoal/Whom.md",
-    "⚙️Admin/Pessoal/_focus.md",
-    "⚙️Admin/Pessoal/Friend.md",
-    "⚙️Admin/Pessoal/Ideias 2023.md",
-    "⚙️Admin/Pessoal/Estrutura Andre Lug.md",
-    "⚙️Admin/Pessoal/O que significa a vida.md",
     "⚙️Admin/Pessoal",
     "Contents",
     "Topics",
