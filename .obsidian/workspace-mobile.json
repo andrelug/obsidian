@@ -11,13 +11,8 @@
             "id": "4a5f9cd04331ef80",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📝Diário/2023-09-21.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "📝Diário/2023-09-21.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "📝Diário/2023-09-21.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,50 +114,49 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "4a5f9cd04331ef80",
   "lastOpenFiles": [
-    "📝Diário/2023-09-20.md",
-    "📝Diário/2023-09-21.md",
-    "⚙️Admin/Pessoal/Why.md",
-    "⚙️Admin/Pessoal/House chores.md",
-    "Topics/Memento Mori.md",
-    "Topics/Money.md",
-    "Routines.md",
-    "📝Diário/2023-09-18.md",
-    "⚙️Admin/Pessoal/2023 Life Study.md",
-    "2023-09-20 Você Precisa de 6 Alarmes para Mudar de Vida.md",
-    "📝Diário/2023-09-19.md",
-    "$ Venda Todo Santo Dia.md",
-    "@Iglu Online.md",
-    "Contents/2023-09-14 8 Stoic Habits That Will Improve Your Life.md",
-    "📝Diário/2023-09-14.md",
-    "⚙️Admin/Pessoal/Pontos Fortes e Pontos a Melhorar.md",
-    "⚙️Admin/Pessoal/Writer.md",
-    "⚙️Admin/Pessoal/My Values - Exercises.md",
-    "⚙️Admin/Pessoal/Grandes Sonhos.md",
-    "⚙️Admin/Pessoal/Want.md",
-    "⚙️Admin/Pessoal/Principles.md",
-    "⚙️Admin/Pessoal/Family values.md",
-    "⚙️Admin/Pessoal/Planejamento Mudança 2022.md",
-    "⚙️Admin/Pessoal/What.md",
-    "⚙️Admin/Pessoal/Son.md",
-    "⚙️Admin/Pessoal/Husband.md",
-    "⚙️Admin/Pessoal",
-    "Contents",
-    "Topics",
     "⚙️Admin/Anexos/1-margin-v2.png",
+    "⚙️Admin/Templates/Weekly Review.md",
+    "⚙️Admin/Templates/Podcast.md",
+    "⚙️Admin/Templates/Article.md",
+    "⚙️Admin/Templates/Video.md",
+    "⚙️Admin/Templates/Meta.md",
+    "⚙️Admin/Anexos/5-exponential.png",
+    "⚙️Admin/Templates/Social Media Post.md",
+    "⚙️Admin/Templates/Diário.md",
+    "Topics/Super-Credibility.md",
+    "Topics/Story Pacing.md",
+    "⚙️Admin/Pessoal/Athlete.md",
+    "Contents/2022-03-21 How to be the type of person everyone wats to know.md",
+    "Contents/2022-3-03 Pensamentos Do YouTube sobre futuro da tecnologia.md",
+    "Contents/2022-03-16 What is PKM. Personal Knowledge System.md",
+    "Contents/2022-03-17 Focus On Learning and Creating Rather Than Entertainment and Distraction.md",
+    "⚙️Admin/Pessoal/Whom.md",
+    "Contents/2022-03-28 Experimente por um dia! Os bilionários fazem isso todos os dias! Dandapani.md",
+    "Contents/2022-03-22 Is Mycelium Fungus the Plastic of the Future.md",
+    "Contents/2022-03-22 The essential habit billionaires practice everyday.md",
+    "Contents/2022-03-29 War of Art.md",
+    "Topics/Story Characters.md",
+    "Topics/RTK.md",
+    "⚙️Admin/Pessoal/2022 Travel Study.md",
+    "⚙️Admin/Pessoal/Grandes Sonhos.md",
+    "Contents/2022-03-22 How To Take Smart Notes.md",
+    "Contents/2022-03-18 You will never be lazy again.md",
     "⚙️Admin/Anexos/6-Bayes.png",
     "⚙️Admin/Anexos/3-signaling.png",
     "⚙️Admin/Anexos/10-nash.png",
     "⚙️Admin/Anexos/2-selection.png",
     "⚙️Admin/Anexos/9-incentives-v3.png",
     "⚙️Admin/Anexos/8-feedback-v2.png",
-    "⚙️Admin/Anexos/5-exponential.png",
     "⚙️Admin/Anexos/4-potential.png",
-    "⚙️Admin/Anexos/7-common.png"
+    "⚙️Admin/Anexos/7-common.png",
+    "⚙️Admin/Pessoal",
+    "Contents",
+    "Topics"
   ]
 }
