@@ -11,8 +11,13 @@
             "id": "6bc966f3ab003764",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "📝Diário/2023-10-03.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝Diário/2023-09-25.md",
+                "file": "📝Diário/2023-10-03.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝Diário/2023-09-25.md",
+                "file": "📝Diário/2023-10-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,10 +158,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cc26937f1a7b5a29",
+  "active": "6bc966f3ab003764",
   "lastOpenFiles": [
-    "📝Diário/2023-09-21.md",
     "📝Diário/2023-09-25.md",
+    "📝Diário/2023-10-03.md",
+    "📝Diário/2023-09-21.md",
     "⚙️Admin/Pessoal/2023 Life Study.md",
     "📝Diário/2023-09-20.md",
     "$ Venda Todo Santo Dia.md",
@@ -180,7 +186,6 @@
     "Contents/2022-03-22 BREAKING NEWS...The truth in 5 minutes, Seth Godin, David Bayer, Brendon Burchard.md",
     "📝Diário/2023-09-14.md",
     "⚙️Admin/Pessoal/Ideias 2023.md",
-    "⚙️Admin/Pessoal/My Values - Exercises.md",
     "Topics",
     "Contents",
     "⚙️Admin/Pessoal",
