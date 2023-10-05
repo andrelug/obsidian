@@ -4,16 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "71f96d4fb892617c",
+        "id": "5056548eac60a734",
         "type": "tabs",
         "children": [
           {
-            "id": "6bc966f3ab003764",
+            "id": "e478c63e3a527961",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9287c4c792e02e01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝Diário/2023-10-03.md",
+                "file": "Planejamento de Conteúdo André Lug 2.0.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +29,15 @@
             }
           },
           {
-            "id": "a5481ba5f71bc0d9",
+            "id": "ecccea62eeecd5a5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "⚙️Admin/Taxonomia.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -97,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝Diário/2023-10-03.md",
+                "file": "Planejamento de Conteúdo André Lug 2.0.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝Diário/2023-10-03.md",
+                "file": "Planejamento de Conteúdo André Lug 2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,23 +180,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a5481ba5f71bc0d9",
+  "active": "9287c4c792e02e01",
   "lastOpenFiles": [
-    "📝Diário/2023-09-25.md",
+    "⚙️Admin/Taxonomia.md",
+    "Planejamento de Conteúdo André Lug 2.0.md",
+    "⚙️Admin/Pessoal/_focus.md",
     "📝Diário/2023-10-03.md",
+    "📝Diário/2023-09-25.md",
     "📝Diário/2023-09-21.md",
     "⚙️Admin/Pessoal/2023 Life Study.md",
     "📝Diário/2023-09-20.md",
     "$ Venda Todo Santo Dia.md",
     "2023-09-20 Você Precisa de 6 Alarmes para Mudar de Vida.md",
-    "⚙️Admin/Taxonomia.md",
     "📝Diário/2023-09-19.md",
     "Entrepreneur]], [[Ads.md",
     "Contents/2022-10-06 How Anne Moss manages 25 sites 200k montrhy revenue.md",
     "Topics/Money.md",
     "Routines.md",
     "Contents/2023-09-14 8 Stoic Habits That Will Improve Your Life.md",
-    "⚙️Admin/Pessoal/_focus.md",
     "⚙️Admin/Pessoal/2022 Travel Study.md",
     "📝Diário/2023-09-18.md",
     "⚙️Admin/Pessoal/2022 Life Study.md",
@@ -196,7 +208,6 @@
     "Contents/2022-03-16 How to manage projects and more using Obsidian with Francisco Bricio.md",
     "Contents/2022-03-22 BREAKING NEWS...The truth in 5 minutes, Seth Godin, David Bayer, Brendon Burchard.md",
     "📝Diário/2023-09-14.md",
-    "⚙️Admin/Pessoal/Ideias 2023.md",
     "Topics",
     "Contents",
     "⚙️Admin/Pessoal",
