@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a5481ba5f71bc0d9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 263.5
   },
   "right": {
     "id": "37b3eb3201dbdc69",
@@ -158,7 +169,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6bc966f3ab003764",
+  "active": "a5481ba5f71bc0d9",
   "lastOpenFiles": [
     "📝Diário/2023-09-25.md",
     "📝Diário/2023-10-03.md",
