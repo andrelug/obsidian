@@ -6,11 +6,11 @@
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 |             |             |             | Live 20h    |             |             |             |
 | 5 Stories   | 5 Stories   | 5 Stories   | 5 Stories   | 5 Stories   | 5 Stories   | 5 Stories   |
-| Insta Feed  |             | Insta Feed  |             | Insta Feed  |             |             |
+|             |             | Insta Feed  |             | Insta Feed  |             |             |
 | Insta Reels | Insta Reels | Insta Reels | Insta Reels | Insta Reels | Insta Reels | Insta Reels |
 | Tiktok Feed | Tiktok Feed | Tiktok Feed | Tiktok Feed | Tiktok Feed | Tiktok Feed | Tiktok Feed |
 |             | YT Shorts   |             | YT Shorts   |             |             |             |
-|             |             |             |             | YT Long            |             |             |
+|             |             |             |             | YT Long     |             |             |
 
 **Tipos**
 - Resultados - Conversacional e leva para inbox
@@ -63,7 +63,6 @@
 **Educational**
 - Esse aqui é o vídeo sobre SEO explicado para leigos que você estava procurando 
 - Algumas coisas esquisitas que as pessoas não sabem sobre IA
-- Eu não acho que as pessoas realmente entendem pra que ter um site
 - Eu sou o único que não sabia disso? Você já pode usar a IA superpoderosa da Microsoft no seu Windows HOJE.
 - Esse é o maior segredo para você ranquear no Google rápido.
 - Se você é preguiçoso ou preguiçosa e ainda quer criar um blog, é assim que você faz
