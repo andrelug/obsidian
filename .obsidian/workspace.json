@@ -4,55 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "5056548eac60a734",
+        "id": "f51bd13e5f83a493",
         "type": "tabs",
         "children": [
           {
-            "id": "e478c63e3a527961",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9287c4c792e02e01",
+            "id": "f879f468c154fd9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planejamento de Conteúdo André Lug 2.0.md",
+                "file": "📝Diário/2023-10-27.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "ecccea62eeecd5a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚙️Admin/Taxonomia.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd0512a7e65e8c12",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planejamento de Conteúdo André Lug 2.0.md",
+                "file": "📝Diário/2023-10-27.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planejamento de Conteúdo André Lug 2.0.md",
+                "file": "📝Diário/2023-10-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,10 +159,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fd0512a7e65e8c12",
+  "active": "f879f468c154fd9f",
   "lastOpenFiles": [
-    "⚙️Admin/Taxonomia.md",
+    "📝Diário/2023-10-27.md",
     "Planejamento de Conteúdo André Lug 2.0.md",
+    "⚙️Admin/Taxonomia.md",
     "⚙️Admin/Pessoal/_focus.md",
     "📝Diário/2023-10-03.md",
     "📝Diário/2023-09-25.md",
@@ -218,7 +187,6 @@
     "Contents/2022-04-04 How overstimulation is ruining your life.md",
     "Contents/2022-03-16 How to manage projects and more using Obsidian with Francisco Bricio.md",
     "Contents/2022-03-22 BREAKING NEWS...The truth in 5 minutes, Seth Godin, David Bayer, Brendon Burchard.md",
-    "📝Diário/2023-09-14.md",
     "Topics",
     "Contents",
     "⚙️Admin/Pessoal",
