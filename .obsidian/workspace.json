@@ -40,9 +40,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fd0512a7e65e8c12",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -181,7 +191,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fabd84f54f4a068f",
+  "active": "fd0512a7e65e8c12",
   "lastOpenFiles": [
     "⚙️Admin/Taxonomia.md",
     "Planejamento de Conteúdo André Lug 2.0.md",
