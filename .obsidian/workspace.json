@@ -13,6 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "📝Diário/2023-10-29.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4348c22b3c536a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📝Diário/2023-10-28.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cba711f4d6f72131",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "📝Diário/2023-10-27.md",
                 "mode": "source",
                 "backlinks": true,
@@ -20,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -49,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#🟠",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +93,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,8 +185,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f879f468c154fd9f",
+  "active": "cba711f4d6f72131",
   "lastOpenFiles": [
+    "📝Diário/2023-10-28.md",
+    "📝Diário/2023-10-29.md",
+    "📝Diário/2023-11-02.md",
     "📝Diário/2023-10-27.md",
     "Planejamento de Conteúdo André Lug 2.0.md",
     "⚙️Admin/Taxonomia.md",
@@ -184,9 +213,6 @@
     "⚙️Admin/Templates/Concept.md",
     "Topics/Memento Mori.md",
     "Contents/2022-03-22 How To Take Smart Notes.md",
-    "Contents/2022-04-04 How overstimulation is ruining your life.md",
-    "Contents/2022-03-16 How to manage projects and more using Obsidian with Francisco Bricio.md",
-    "Contents/2022-03-22 BREAKING NEWS...The truth in 5 minutes, Seth Godin, David Bayer, Brendon Burchard.md",
     "Topics",
     "Contents",
     "⚙️Admin/Pessoal",
