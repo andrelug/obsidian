@@ -45,6 +45,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1ee9a51eacc707d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📝Diário/2023-11-02.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -187,10 +200,10 @@
   },
   "active": "cba711f4d6f72131",
   "lastOpenFiles": [
-    "📝Diário/2023-10-28.md",
-    "📝Diário/2023-10-29.md",
     "📝Diário/2023-11-02.md",
     "📝Diário/2023-10-27.md",
+    "📝Diário/2023-10-28.md",
+    "📝Diário/2023-10-29.md",
     "Planejamento de Conteúdo André Lug 2.0.md",
     "⚙️Admin/Taxonomia.md",
     "⚙️Admin/Pessoal/_focus.md",
