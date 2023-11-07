@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝Diário/2023-10-27.md",
+                "file": "📝Diário/2023-10-29.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝Diário/2023-10-27.md",
+                "file": "📝Diário/2023-10-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,12 +197,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cba711f4d6f72131",
+  "active": "f879f468c154fd9f",
   "lastOpenFiles": [
-    "📝Diário/2023-11-02.md",
-    "📝Diário/2023-10-27.md",
     "📝Diário/2023-10-28.md",
     "📝Diário/2023-10-29.md",
+    "📝Diário/2023-10-27.md",
+    "📝Diário/2023-11-02.md",
     "Planejamento de Conteúdo André Lug 2.0.md",
     "⚙️Admin/Taxonomia.md",
     "⚙️Admin/Pessoal/_focus.md",
