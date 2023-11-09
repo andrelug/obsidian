@@ -30,6 +30,8 @@
 ##### Channels
 - Instagram Storis
 - Instagram Feed
+	- Imagem
+	- Imagem carrossel + vídeo 2 posição
 - Instagram Reels
 - Instagram Live
 - Tiktok feed
