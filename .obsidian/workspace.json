@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f51bd13e5f83a493",
+        "id": "94c77c127149fdb2",
         "type": "tabs",
         "children": [
           {
-            "id": "f879f468c154fd9f",
+            "id": "0067ca212a0cbb59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝Diário/2023-10-29.md",
+                "file": "Planejamento de Conteúdo André Lug 2.0.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,45 +21,20 @@
             }
           },
           {
-            "id": "e4348c22b3c536a4",
+            "id": "abd207b542d1f5fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝Diário/2023-10-28.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cba711f4d6f72131",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📝Diário/2023-10-27.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ee9a51eacc707d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📝Diário/2023-11-02.md",
+                "file": "Planejamento Vida 2023-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝Diário/2023-10-29.md",
+                "file": "Planejamento Vida 2023-24.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝Diário/2023-10-29.md",
+                "file": "Planejamento Vida 2023-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,13 +172,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f879f468c154fd9f",
+  "active": "abd207b542d1f5fc",
   "lastOpenFiles": [
-    "📝Diário/2023-10-28.md",
+    "Planejamento de Conteúdo André Lug 2.0.md",
+    "Planejamento Vida 2023-24.md",
     "📝Diário/2023-10-29.md",
     "📝Diário/2023-10-27.md",
     "📝Diário/2023-11-02.md",
-    "Planejamento de Conteúdo André Lug 2.0.md",
+    "📝Diário/2023-10-28.md",
     "⚙️Admin/Taxonomia.md",
     "⚙️Admin/Pessoal/_focus.md",
     "📝Diário/2023-10-03.md",
@@ -224,7 +200,6 @@
     "⚙️Admin/Pessoal/2022 Life Study.md",
     "⚙️Admin/Templates/Concept.md",
     "Topics/Memento Mori.md",
-    "Contents/2022-03-22 How To Take Smart Notes.md",
     "Topics",
     "Contents",
     "⚙️Admin/Pessoal",
