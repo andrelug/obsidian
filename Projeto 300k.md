@@ -1,4 +1,45 @@
 
+
+### Processo
+1. 3 testes iniciais
+2. Estudo
+3. Hábitos diários
+4. Revisão dos resultados
+
+
+### Opções
+- Canal Dark
+	- Monetiza com Ads e afiliados
+- Canal Youtube
+	- Monetiza com Ads e afiliados
+- Blogs
+	- Monetiza com Ads, afiliados e posicionamentos pagos
+- Arbitragem de blogs
+	- Monetiza com Ads
+- Afiliados com ads
+	- Monetiza com afiliados
+- Cursos online
+	- Monetiza com a venda direta
+- Abrir produto pra afiliação
+	- Monetiza com força de venda de terceiros
+- SaaS
+	- Monetiza com venda direta
+- Conteúdo Exclusivo
+	- Monetiza com inscrições
+- Podcast
+	- Monetiza com posicionamentos pagos
+- Livro
+	- Monetiza com venda direta
+
+
+### Decisões iniciais
+
+Projetos
+- Blog novo - estratégia renda com blogs e IA
+- Canal YT (Dark?)
+- 
+
+
 #### Rotina Diária
 
 ##### Brazil time
