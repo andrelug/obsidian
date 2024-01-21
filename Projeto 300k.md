@@ -30,16 +30,47 @@
 	- Monetiza com posicionamentos pagos
 - Livro
 	- Monetiza com venda direta
+- Lançamento de terceiros
+	- Monetiza com comissões
 
 
 ### Decisões iniciais
 
 Projetos
-- Blog novo - estratégia renda com blogs e IA
+- Blog novo - estratégia renda com blogs e IA + arbitragem
 - Canal YT (Dark?)
-- 
+- Lançamento de terceiros
+
+Estudos
+- Blog novo - estratégia renda com blogs e IA + arbitragem
+	- Renda com blogs e IA - André Lug
+	- Cris Franklin
+- Canal YT (Dark?)
+	- Cassiano Girardi
+- Lançamento de terceiros
+	- Perpétuo Leandro Ladeira
+
+Rotinas
+- Blog novo - estratégia renda com blogs e IA + arbitragem
+	- 5 posts por dia
+	- 1 teste de ads por dia
+- Canal YT (Dark?)
+	- 3 vídeos por semana?
+- Lançamento de terceiros
+	- delegar, revisar e acompanhar
+- Extras
+	- 30 min estudo diário
+	- Meditação diária
+	- Wim Hof Method
+	- Afirmações diárias
+	- Exercício físico diário
+- Produção de conteúdo diária
+	- Instagram
+	- Tiktok
+	- YouTube
 
 
+### Meu conteúdo
 #### Rotina Diária
 
 ##### Brazil time
